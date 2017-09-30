@@ -1,0 +1,6 @@
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\06-Logic Checks\06-Logic Checks\07-sumSeconds\bin\Debug\7-sumSeconds.exe.config
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\06-Logic Checks\06-Logic Checks\07-sumSeconds\bin\Debug\7-sumSeconds.exe
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\06-Logic Checks\06-Logic Checks\07-sumSeconds\bin\Debug\7-sumSeconds.pdb
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\06-Logic Checks\06-Logic Checks\07-sumSeconds\obj\Debug\07-sumSeconds.csprojResolveAssemblyReference.cache
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\06-Logic Checks\06-Logic Checks\07-sumSeconds\obj\Debug\7-sumSeconds.exe
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\06-Logic Checks\06-Logic Checks\07-sumSeconds\obj\Debug\7-sumSeconds.pdb

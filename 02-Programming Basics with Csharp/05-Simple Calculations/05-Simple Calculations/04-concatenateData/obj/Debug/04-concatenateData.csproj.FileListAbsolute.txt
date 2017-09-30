@@ -1,0 +1,6 @@
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\05-Simple Calculations\05-Simple Calculations\04-concatenateData\bin\Debug\4-concatenateData.exe.config
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\05-Simple Calculations\05-Simple Calculations\04-concatenateData\bin\Debug\4-concatenateData.exe
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\05-Simple Calculations\05-Simple Calculations\04-concatenateData\bin\Debug\4-concatenateData.pdb
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\05-Simple Calculations\05-Simple Calculations\04-concatenateData\obj\Debug\04-concatenateData.csprojResolveAssemblyReference.cache
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\05-Simple Calculations\05-Simple Calculations\04-concatenateData\obj\Debug\4-concatenateData.exe
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\05-Simple Calculations\05-Simple Calculations\04-concatenateData\obj\Debug\4-concatenateData.pdb

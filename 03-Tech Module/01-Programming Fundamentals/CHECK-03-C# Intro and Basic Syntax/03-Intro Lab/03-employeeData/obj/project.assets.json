@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PI i Ofi\\Documents\\Visual Studio 2017\\Projects\\softUni\\Tech Module\\Programming Fundamentals\\03-C# Intro and Basic Syntax\\03-Intro Lab\\03-employeeData\\03-employeeData.csproj",
+      "projectUniqueName": "D:\\Study\\Soft Uni\\Soft Uni Lectures and Homeworks\\03-Tech Module\\01-Programming Fundamentals\\CHECK-03-C# Intro and Basic Syntax\\03-Intro Lab\\03-employeeData\\03-employeeData.csproj",
       "projectName": "03-employeeData",
-      "projectPath": "C:\\Users\\PI i Ofi\\Documents\\Visual Studio 2017\\Projects\\softUni\\Tech Module\\Programming Fundamentals\\03-C# Intro and Basic Syntax\\03-Intro Lab\\03-employeeData\\03-employeeData.csproj",
-      "outputPath": "C:\\Users\\PI i Ofi\\Documents\\Visual Studio 2017\\Projects\\softUni\\Tech Module\\Programming Fundamentals\\03-C# Intro and Basic Syntax\\03-Intro Lab\\03-employeeData\\obj\\",
+      "projectPath": "D:\\Study\\Soft Uni\\Soft Uni Lectures and Homeworks\\03-Tech Module\\01-Programming Fundamentals\\CHECK-03-C# Intro and Basic Syntax\\03-Intro Lab\\03-employeeData\\03-employeeData.csproj",
+      "outputPath": "D:\\Study\\Soft Uni\\Soft Uni Lectures and Homeworks\\03-Tech Module\\01-Programming Fundamentals\\CHECK-03-C# Intro and Basic Syntax\\03-Intro Lab\\03-employeeData\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PI i Ofi\\Documents\\Visual Studio 2017\\Projects\\softUni\\Tech Module\\Programming Fundamentals\\04-C# Basic Syntax - Exercises\\04-BasicSyntax\\03-milesToKm\\03-milesToKm.csproj",
+      "projectUniqueName": "D:\\Study\\Soft Uni\\Soft Uni Lectures and Homeworks\\03-Tech Module\\01-Programming Fundamentals\\CHECK-04-C# Basic Syntax - Exercises\\04-Basic Syntax\\03-milesToKm\\03-milesToKm.csproj",
       "projectName": "03-milesToKm",
-      "projectPath": "C:\\Users\\PI i Ofi\\Documents\\Visual Studio 2017\\Projects\\softUni\\Tech Module\\Programming Fundamentals\\04-C# Basic Syntax - Exercises\\04-BasicSyntax\\03-milesToKm\\03-milesToKm.csproj",
-      "outputPath": "C:\\Users\\PI i Ofi\\Documents\\Visual Studio 2017\\Projects\\softUni\\Tech Module\\Programming Fundamentals\\04-C# Basic Syntax - Exercises\\04-BasicSyntax\\03-milesToKm\\obj\\",
+      "projectPath": "D:\\Study\\Soft Uni\\Soft Uni Lectures and Homeworks\\03-Tech Module\\01-Programming Fundamentals\\CHECK-04-C# Basic Syntax - Exercises\\04-Basic Syntax\\03-milesToKm\\03-milesToKm.csproj",
+      "outputPath": "D:\\Study\\Soft Uni\\Soft Uni Lectures and Homeworks\\03-Tech Module\\01-Programming Fundamentals\\CHECK-04-C# Basic Syntax - Exercises\\04-Basic Syntax\\03-milesToKm\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

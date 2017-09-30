@@ -1,0 +1,6 @@
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\08-Loops\08-Loops\05-maxNumber\bin\Debug\05-maxNumber.exe.config
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\08-Loops\08-Loops\05-maxNumber\bin\Debug\05-maxNumber.exe
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\08-Loops\08-Loops\05-maxNumber\bin\Debug\05-maxNumber.pdb
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\08-Loops\08-Loops\05-maxNumber\obj\Debug\05-maxNumber.csprojResolveAssemblyReference.cache
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\08-Loops\08-Loops\05-maxNumber\obj\Debug\05-maxNumber.exe
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\08-Loops\08-Loops\05-maxNumber\obj\Debug\05-maxNumber.pdb

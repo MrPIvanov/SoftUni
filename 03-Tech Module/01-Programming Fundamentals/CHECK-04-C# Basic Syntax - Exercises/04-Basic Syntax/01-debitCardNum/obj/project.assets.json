@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PI i Ofi\\Documents\\Visual Studio 2017\\Projects\\softUni\\Tech Module\\Programming Fundamentals\\04-C# Basic Syntax - Exercises\\04-BasicSyntax\\01-debitCardNum\\01-debitCardNum.csproj",
+      "projectUniqueName": "D:\\Study\\Soft Uni\\Soft Uni Lectures and Homeworks\\03-Tech Module\\01-Programming Fundamentals\\CHECK-04-C# Basic Syntax - Exercises\\04-Basic Syntax\\01-debitCardNum\\01-debitCardNum.csproj",
       "projectName": "01-debitCardNum",
-      "projectPath": "C:\\Users\\PI i Ofi\\Documents\\Visual Studio 2017\\Projects\\softUni\\Tech Module\\Programming Fundamentals\\04-C# Basic Syntax - Exercises\\04-BasicSyntax\\01-debitCardNum\\01-debitCardNum.csproj",
-      "outputPath": "C:\\Users\\PI i Ofi\\Documents\\Visual Studio 2017\\Projects\\softUni\\Tech Module\\Programming Fundamentals\\04-C# Basic Syntax - Exercises\\04-BasicSyntax\\01-debitCardNum\\obj\\",
+      "projectPath": "D:\\Study\\Soft Uni\\Soft Uni Lectures and Homeworks\\03-Tech Module\\01-Programming Fundamentals\\CHECK-04-C# Basic Syntax - Exercises\\04-Basic Syntax\\01-debitCardNum\\01-debitCardNum.csproj",
+      "outputPath": "D:\\Study\\Soft Uni\\Soft Uni Lectures and Homeworks\\03-Tech Module\\01-Programming Fundamentals\\CHECK-04-C# Basic Syntax - Exercises\\04-Basic Syntax\\01-debitCardNum\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
