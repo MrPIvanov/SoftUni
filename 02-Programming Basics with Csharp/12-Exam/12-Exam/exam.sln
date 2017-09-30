@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-simpleCalculations", "01-simpleCalculations\01-simpleCalculations.csproj", "{C43D845A-CA42-4E16-8136-B40A9D83741D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-logicChecks", "02-logicChecks\02-logicChecks.csproj", "{043FDC28-6078-4E63-BC9E-BD01F16868A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-complexConditions", "03-complexConditions\03-complexConditions.csproj", "{FDD88601-2A09-4339-8D79-99216DEAD8CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-loops", "04-loops\04-loops.csproj", "{802BB53B-9262-48E1-90D4-869854377D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-drawingWithLoops", "05-drawingWithLoops\05-drawingWithLoops.csproj", "{78EAA28A-1DA0-42F2-A866-ED77FC80E783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-complexLoops", "06-complexLoops\06-complexLoops.csproj", "{39FE4AE2-8848-47F9-9397-A65C1C3566E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43D845A-CA42-4E16-8136-B40A9D83741D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43D845A-CA42-4E16-8136-B40A9D83741D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43D845A-CA42-4E16-8136-B40A9D83741D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43D845A-CA42-4E16-8136-B40A9D83741D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043FDC28-6078-4E63-BC9E-BD01F16868A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043FDC28-6078-4E63-BC9E-BD01F16868A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043FDC28-6078-4E63-BC9E-BD01F16868A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043FDC28-6078-4E63-BC9E-BD01F16868A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD88601-2A09-4339-8D79-99216DEAD8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD88601-2A09-4339-8D79-99216DEAD8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD88601-2A09-4339-8D79-99216DEAD8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD88601-2A09-4339-8D79-99216DEAD8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802BB53B-9262-48E1-90D4-869854377D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802BB53B-9262-48E1-90D4-869854377D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802BB53B-9262-48E1-90D4-869854377D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802BB53B-9262-48E1-90D4-869854377D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78EAA28A-1DA0-42F2-A866-ED77FC80E783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EAA28A-1DA0-42F2-A866-ED77FC80E783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EAA28A-1DA0-42F2-A866-ED77FC80E783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EAA28A-1DA0-42F2-A866-ED77FC80E783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FE4AE2-8848-47F9-9397-A65C1C3566E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FE4AE2-8848-47F9-9397-A65C1C3566E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FE4AE2-8848-47F9-9397-A65C1C3566E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FE4AE2-8848-47F9-9397-A65C1C3566E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

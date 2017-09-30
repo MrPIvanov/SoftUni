@@ -1,0 +1,6 @@
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\16-trainingLab\bin\Debug\16-trainingLab.exe.config
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\16-trainingLab\bin\Debug\16-trainingLab.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\16-trainingLab\bin\Debug\16-trainingLab.pdb
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\16-trainingLab\obj\Debug\16-trainingLab.csprojResolveAssemblyReference.cache
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\16-trainingLab\obj\Debug\16-trainingLab.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\16-trainingLab\obj\Debug\16-trainingLab.pdb

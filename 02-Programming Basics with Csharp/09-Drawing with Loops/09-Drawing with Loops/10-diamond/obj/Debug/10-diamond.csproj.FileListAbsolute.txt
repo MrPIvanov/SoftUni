@@ -1,0 +1,5 @@
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\10-diamond\bin\Debug\10-diamond.exe.config
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\10-diamond\bin\Debug\10-diamond.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\10-diamond\bin\Debug\10-diamond.pdb
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\10-diamond\obj\Debug\10-diamond.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\10-diamond\obj\Debug\10-diamond.pdb

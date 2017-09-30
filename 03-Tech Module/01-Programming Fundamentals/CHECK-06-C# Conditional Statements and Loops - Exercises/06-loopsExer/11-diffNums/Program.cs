@@ -1,0 +1,76 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _11_diffNums
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int firstNumber = int.Parse(Console.ReadLine());
+            int secondNumber = int.Parse(Console.ReadLine());
+
+
+            if (Math.Abs(firstNumber-secondNumber)<4)
+            {
+                Console.WriteLine("No");
+            }
+
+            else
+            {
+
+                
+
+                for (int n1 = firstNumber; n1 <= secondNumber; n1++)
+                {
+
+                    for (int n2 = firstNumber; n2 <= secondNumber; n2++)
+                    {
+
+                        for (int n3 = firstNumber; n3 <= secondNumber; n3++)
+                        {
+
+                            for (int n4 = firstNumber; n4 <= secondNumber; n4++)
+                            {
+
+
+                                for (int n5 = firstNumber; n5 <= secondNumber; n5++)
+                                {
+
+                                    if (firstNumber<=n1&&n1<n2&&n2<n3&&n3<n4&&n4<n5&&n5<=secondNumber)
+                                    {
+                                        Console.WriteLine($"{n1} {n2} {n3} {n4} {n5}");
+                                    }
+
+
+                                }
+
+
+
+                            }
+
+
+                        }
+
+
+
+                    }
+
+
+
+
+                }
+            }
+
+
+           
+
+
+
+
+        }
+    }
+}

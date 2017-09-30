@@ -1,0 +1,6 @@
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\6-Logic Checks\6-homeWork\1-excellentResult\bin\Debug\1-excellentResult.exe.config
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\6-Logic Checks\6-homeWork\1-excellentResult\bin\Debug\1-excellentResult.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\6-Logic Checks\6-homeWork\1-excellentResult\bin\Debug\1-excellentResult.pdb
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\6-Logic Checks\6-homeWork\1-excellentResult\obj\Debug\01-excellentResult.csprojResolveAssemblyReference.cache
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\6-Logic Checks\6-homeWork\1-excellentResult\obj\Debug\1-excellentResult.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\6-Logic Checks\6-homeWork\1-excellentResult\obj\Debug\1-excellentResult.pdb

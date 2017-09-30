@@ -1,0 +1,6 @@
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\18-floorRepair\bin\Debug\18-floorRepair.exe.config
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\18-floorRepair\bin\Debug\18-floorRepair.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\18-floorRepair\bin\Debug\18-floorRepair.pdb
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\18-floorRepair\obj\Debug\18-floorRepair.csprojResolveAssemblyReference.cache
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\18-floorRepair\obj\Debug\18-floorRepair.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\18-floorRepair\obj\Debug\18-floorRepair.pdb

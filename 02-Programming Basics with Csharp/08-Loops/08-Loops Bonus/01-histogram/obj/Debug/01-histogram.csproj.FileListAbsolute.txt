@@ -1,0 +1,6 @@
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\8-Loops\8-homeWorkBonus\01-histogram\bin\Debug\01-histogram.exe.config
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\8-Loops\8-homeWorkBonus\01-histogram\bin\Debug\01-histogram.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\8-Loops\8-homeWorkBonus\01-histogram\bin\Debug\01-histogram.pdb
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\8-Loops\8-homeWorkBonus\01-histogram\obj\Debug\01-histogram.csprojResolveAssemblyReference.cache
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\8-Loops\8-homeWorkBonus\01-histogram\obj\Debug\01-histogram.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\8-Loops\8-homeWorkBonus\01-histogram\obj\Debug\01-histogram.pdb

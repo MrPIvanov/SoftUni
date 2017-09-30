@@ -1,0 +1,9 @@
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Programming Fundamentals\04-C# Basic Syntax - Exercises\04-BasicSyntax\02-rectanArea\bin\Debug\netcoreapp1.1\02-rectanArea.deps.json
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Programming Fundamentals\04-C# Basic Syntax - Exercises\04-BasicSyntax\02-rectanArea\bin\Debug\netcoreapp1.1\02-rectanArea.runtimeconfig.json
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Programming Fundamentals\04-C# Basic Syntax - Exercises\04-BasicSyntax\02-rectanArea\bin\Debug\netcoreapp1.1\02-rectanArea.runtimeconfig.dev.json
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Programming Fundamentals\04-C# Basic Syntax - Exercises\04-BasicSyntax\02-rectanArea\bin\Debug\netcoreapp1.1\02-rectanArea.dll
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Programming Fundamentals\04-C# Basic Syntax - Exercises\04-BasicSyntax\02-rectanArea\bin\Debug\netcoreapp1.1\02-rectanArea.pdb
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Programming Fundamentals\04-C# Basic Syntax - Exercises\04-BasicSyntax\02-rectanArea\obj\Debug\netcoreapp1.1\02-rectanArea.csprojResolveAssemblyReference.cache
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Programming Fundamentals\04-C# Basic Syntax - Exercises\04-BasicSyntax\02-rectanArea\obj\Debug\netcoreapp1.1\02-rectanArea.AssemblyInfo.cs
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Programming Fundamentals\04-C# Basic Syntax - Exercises\04-BasicSyntax\02-rectanArea\obj\Debug\netcoreapp1.1\02-rectanArea.dll
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Programming Fundamentals\04-C# Basic Syntax - Exercises\04-BasicSyntax\02-rectanArea\obj\Debug\netcoreapp1.1\02-rectanArea.pdb

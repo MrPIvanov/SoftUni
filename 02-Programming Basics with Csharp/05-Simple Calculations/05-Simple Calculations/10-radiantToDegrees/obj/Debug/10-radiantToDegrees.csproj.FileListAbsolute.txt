@@ -1,0 +1,5 @@
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\10-radiantToDegrees\bin\Debug\10-radiantToDegrees.exe.config
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\10-radiantToDegrees\bin\Debug\10-radiantToDegrees.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\10-radiantToDegrees\bin\Debug\10-radiantToDegrees.pdb
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\10-radiantToDegrees\obj\Debug\10-radiantToDegrees.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\10-radiantToDegrees\obj\Debug\10-radiantToDegrees.pdb

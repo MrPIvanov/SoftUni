@@ -1,0 +1,5 @@
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\4-First Steps\4-homeWork\6-squareOfStars\bin\Debug\6-squareOfStars.exe.config
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\4-First Steps\4-homeWork\6-squareOfStars\bin\Debug\6-squareOfStars.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\4-First Steps\4-homeWork\6-squareOfStars\bin\Debug\6-squareOfStars.pdb
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\4-First Steps\4-homeWork\6-squareOfStars\obj\Debug\6-squareOfStars.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\4-First Steps\4-homeWork\6-squareOfStars\obj\Debug\6-squareOfStars.pdb

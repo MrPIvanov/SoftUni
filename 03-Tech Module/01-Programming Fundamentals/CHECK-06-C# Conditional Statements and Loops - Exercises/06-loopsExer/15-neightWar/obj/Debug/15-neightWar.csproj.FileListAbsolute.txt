@@ -1,0 +1,5 @@
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\15-neightWar\bin\Debug\15-neightWar.exe.config
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\15-neightWar\bin\Debug\15-neightWar.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\15-neightWar\bin\Debug\15-neightWar.pdb
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\15-neightWar\obj\Debug\15-neightWar.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\15-neightWar\obj\Debug\15-neightWar.pdb

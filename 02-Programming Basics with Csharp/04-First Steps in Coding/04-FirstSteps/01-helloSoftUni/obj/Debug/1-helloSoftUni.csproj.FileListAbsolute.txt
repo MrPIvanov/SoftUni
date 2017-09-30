@@ -1,0 +1,6 @@
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\4-First Steps\4-homeWork\1-helloSoftUni\bin\Debug\1-helloSoftUni.exe.config
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\4-First Steps\4-homeWork\1-helloSoftUni\bin\Debug\1-helloSoftUni.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\4-First Steps\4-homeWork\1-helloSoftUni\bin\Debug\1-helloSoftUni.pdb
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\4-First Steps\4-homeWork\1-helloSoftUni\obj\Debug\1-helloSoftUni.csprojResolveAssemblyReference.cache
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\4-First Steps\4-homeWork\1-helloSoftUni\obj\Debug\1-helloSoftUni.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\4-First Steps\4-homeWork\1-helloSoftUni\obj\Debug\1-helloSoftUni.pdb

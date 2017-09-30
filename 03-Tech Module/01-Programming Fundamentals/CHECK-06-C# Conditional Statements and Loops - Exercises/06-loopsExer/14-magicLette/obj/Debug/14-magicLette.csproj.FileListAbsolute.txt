@@ -1,0 +1,5 @@
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\14-magicLette\bin\Debug\14-magicLette.exe.config
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\14-magicLette\bin\Debug\14-magicLette.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\14-magicLette\bin\Debug\14-magicLette.pdb
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\14-magicLette\obj\Debug\14-magicLette.exe
+C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\14-magicLette\obj\Debug\14-magicLette.pdb
