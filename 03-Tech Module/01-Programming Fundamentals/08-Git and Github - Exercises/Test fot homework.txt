@@ -1,5 +1,3 @@
 Add text from browser
-Add some words localy!!!
-
-
+Add more localy for test
 Add even more words to test. Now from master branch.
