@@ -1,1 +1,2 @@
+Add text from browser
 Add some words localy!!!
