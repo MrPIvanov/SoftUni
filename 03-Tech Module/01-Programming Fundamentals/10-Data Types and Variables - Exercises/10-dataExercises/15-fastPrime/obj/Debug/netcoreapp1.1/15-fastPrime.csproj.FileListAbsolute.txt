@@ -1,0 +1,8 @@
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\15-fastPrime\bin\Debug\netcoreapp1.1\15-fastPrime.deps.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\15-fastPrime\bin\Debug\netcoreapp1.1\15-fastPrime.runtimeconfig.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\15-fastPrime\bin\Debug\netcoreapp1.1\15-fastPrime.runtimeconfig.dev.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\15-fastPrime\bin\Debug\netcoreapp1.1\15-fastPrime.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\15-fastPrime\bin\Debug\netcoreapp1.1\15-fastPrime.pdb
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\15-fastPrime\obj\Debug\netcoreapp1.1\15-fastPrime.AssemblyInfo.cs
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\15-fastPrime\obj\Debug\netcoreapp1.1\15-fastPrime.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\15-fastPrime\obj\Debug\netcoreapp1.1\15-fastPrime.pdb

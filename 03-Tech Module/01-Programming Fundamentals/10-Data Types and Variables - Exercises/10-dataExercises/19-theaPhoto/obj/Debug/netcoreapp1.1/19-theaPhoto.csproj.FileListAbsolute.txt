@@ -1,0 +1,9 @@
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\19-theaPhoto\bin\Debug\netcoreapp1.1\19-theaPhoto.deps.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\19-theaPhoto\bin\Debug\netcoreapp1.1\19-theaPhoto.runtimeconfig.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\19-theaPhoto\bin\Debug\netcoreapp1.1\19-theaPhoto.runtimeconfig.dev.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\19-theaPhoto\bin\Debug\netcoreapp1.1\19-theaPhoto.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\19-theaPhoto\bin\Debug\netcoreapp1.1\19-theaPhoto.pdb
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\19-theaPhoto\obj\Debug\netcoreapp1.1\19-theaPhoto.csprojResolveAssemblyReference.cache
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\19-theaPhoto\obj\Debug\netcoreapp1.1\19-theaPhoto.AssemblyInfo.cs
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\19-theaPhoto\obj\Debug\netcoreapp1.1\19-theaPhoto.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\19-theaPhoto\obj\Debug\netcoreapp1.1\19-theaPhoto.pdb

@@ -1,0 +1,9 @@
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\04-hexaDeci\bin\Debug\netcoreapp1.1\04-hexaDeci.deps.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\04-hexaDeci\bin\Debug\netcoreapp1.1\04-hexaDeci.runtimeconfig.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\04-hexaDeci\bin\Debug\netcoreapp1.1\04-hexaDeci.runtimeconfig.dev.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\04-hexaDeci\bin\Debug\netcoreapp1.1\04-hexaDeci.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\04-hexaDeci\bin\Debug\netcoreapp1.1\04-hexaDeci.pdb
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\04-hexaDeci\obj\Debug\netcoreapp1.1\04-hexaDeci.csprojResolveAssemblyReference.cache
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\04-hexaDeci\obj\Debug\netcoreapp1.1\04-hexaDeci.AssemblyInfo.cs
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\04-hexaDeci\obj\Debug\netcoreapp1.1\04-hexaDeci.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\04-hexaDeci\obj\Debug\netcoreapp1.1\04-hexaDeci.pdb
