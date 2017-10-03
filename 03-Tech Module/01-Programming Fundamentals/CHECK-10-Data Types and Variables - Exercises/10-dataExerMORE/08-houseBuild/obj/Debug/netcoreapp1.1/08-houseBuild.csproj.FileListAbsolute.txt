@@ -1,0 +1,8 @@
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\08-houseBuild\bin\Debug\netcoreapp1.1\08-houseBuild.deps.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\08-houseBuild\bin\Debug\netcoreapp1.1\08-houseBuild.runtimeconfig.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\08-houseBuild\bin\Debug\netcoreapp1.1\08-houseBuild.runtimeconfig.dev.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\08-houseBuild\bin\Debug\netcoreapp1.1\08-houseBuild.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\08-houseBuild\bin\Debug\netcoreapp1.1\08-houseBuild.pdb
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\08-houseBuild\obj\Debug\netcoreapp1.1\08-houseBuild.AssemblyInfo.cs
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\08-houseBuild\obj\Debug\netcoreapp1.1\08-houseBuild.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\08-houseBuild\obj\Debug\netcoreapp1.1\08-houseBuild.pdb

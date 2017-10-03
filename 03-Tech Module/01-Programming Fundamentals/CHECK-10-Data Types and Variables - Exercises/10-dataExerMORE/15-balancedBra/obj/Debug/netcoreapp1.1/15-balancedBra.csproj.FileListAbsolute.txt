@@ -1,0 +1,9 @@
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\15-balancedBra\bin\Debug\netcoreapp1.1\15-balancedBra.deps.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\15-balancedBra\bin\Debug\netcoreapp1.1\15-balancedBra.runtimeconfig.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\15-balancedBra\bin\Debug\netcoreapp1.1\15-balancedBra.runtimeconfig.dev.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\15-balancedBra\bin\Debug\netcoreapp1.1\15-balancedBra.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\15-balancedBra\bin\Debug\netcoreapp1.1\15-balancedBra.pdb
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\15-balancedBra\obj\Debug\netcoreapp1.1\15-balancedBra.AssemblyInfo.cs
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\15-balancedBra\obj\Debug\netcoreapp1.1\15-balancedBra.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\15-balancedBra\obj\Debug\netcoreapp1.1\15-balancedBra.pdb
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\15-balancedBra\obj\Debug\netcoreapp1.1\15-balancedBra.csprojResolveAssemblyReference.cache

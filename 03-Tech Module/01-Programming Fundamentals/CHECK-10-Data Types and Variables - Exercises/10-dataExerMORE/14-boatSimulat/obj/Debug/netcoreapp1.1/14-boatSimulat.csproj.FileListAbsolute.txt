@@ -1,0 +1,8 @@
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\14-boatSimulat\bin\Debug\netcoreapp1.1\14-boatSimulat.deps.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\14-boatSimulat\bin\Debug\netcoreapp1.1\14-boatSimulat.runtimeconfig.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\14-boatSimulat\bin\Debug\netcoreapp1.1\14-boatSimulat.runtimeconfig.dev.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\14-boatSimulat\bin\Debug\netcoreapp1.1\14-boatSimulat.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\14-boatSimulat\bin\Debug\netcoreapp1.1\14-boatSimulat.pdb
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\14-boatSimulat\obj\Debug\netcoreapp1.1\14-boatSimulat.AssemblyInfo.cs
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\14-boatSimulat\obj\Debug\netcoreapp1.1\14-boatSimulat.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\14-boatSimulat\obj\Debug\netcoreapp1.1\14-boatSimulat.pdb
