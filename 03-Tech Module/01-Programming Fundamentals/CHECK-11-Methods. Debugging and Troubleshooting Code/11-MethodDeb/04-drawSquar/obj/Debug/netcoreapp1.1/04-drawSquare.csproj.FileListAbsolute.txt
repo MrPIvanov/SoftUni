@@ -1,0 +1,9 @@
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\04-drawSquar\bin\Debug\netcoreapp1.1\04-drawSquare.deps.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\04-drawSquar\bin\Debug\netcoreapp1.1\04-drawSquare.runtimeconfig.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\04-drawSquar\bin\Debug\netcoreapp1.1\04-drawSquare.runtimeconfig.dev.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\04-drawSquar\bin\Debug\netcoreapp1.1\04-drawSquare.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\04-drawSquar\bin\Debug\netcoreapp1.1\04-drawSquare.pdb
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\04-drawSquar\obj\Debug\netcoreapp1.1\04-drawSquare.csprojResolveAssemblyReference.cache
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\04-drawSquar\obj\Debug\netcoreapp1.1\04-drawSquare.AssemblyInfo.cs
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\04-drawSquar\obj\Debug\netcoreapp1.1\04-drawSquare.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\04-drawSquar\obj\Debug\netcoreapp1.1\04-drawSquare.pdb

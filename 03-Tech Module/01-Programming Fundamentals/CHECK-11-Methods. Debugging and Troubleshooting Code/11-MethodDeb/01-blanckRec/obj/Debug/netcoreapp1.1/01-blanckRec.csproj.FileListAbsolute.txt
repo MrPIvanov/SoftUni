@@ -1,0 +1,9 @@
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\01-blanckRec\bin\Debug\netcoreapp1.1\01-blanckRec.deps.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\01-blanckRec\bin\Debug\netcoreapp1.1\01-blanckRec.runtimeconfig.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\01-blanckRec\bin\Debug\netcoreapp1.1\01-blanckRec.runtimeconfig.dev.json
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\01-blanckRec\bin\Debug\netcoreapp1.1\01-blanckRec.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\01-blanckRec\bin\Debug\netcoreapp1.1\01-blanckRec.pdb
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\01-blanckRec\obj\Debug\netcoreapp1.1\01-blanckRec.csprojResolveAssemblyReference.cache
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\01-blanckRec\obj\Debug\netcoreapp1.1\01-blanckRec.AssemblyInfo.cs
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\01-blanckRec\obj\Debug\netcoreapp1.1\01-blanckRec.dll
+D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\01-blanckRec\obj\Debug\netcoreapp1.1\01-blanckRec.pdb
