@@ -1,6 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\02-numbersFromNto1\bin\Debug\02-numbersFromNto1.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\02-numbersFromNto1\bin\Debug\02-numbersFromNto1.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\02-numbersFromNto1\bin\Debug\02-numbersFromNto1.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\02-numbersFromNto1\obj\Debug\02-numbersFromNto1.csprojResolveAssemblyReference.cache
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\02-numbersFromNto1\obj\Debug\02-numbersFromNto1.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\02-numbersFromNto1\obj\Debug\02-numbersFromNto1.pdb

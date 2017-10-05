@@ -1,8 +1,0 @@
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\10-sumOfChars\bin\Debug\netcoreapp1.1\10-sumOfChars.deps.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\10-sumOfChars\bin\Debug\netcoreapp1.1\10-sumOfChars.runtimeconfig.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\10-sumOfChars\bin\Debug\netcoreapp1.1\10-sumOfChars.runtimeconfig.dev.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\10-sumOfChars\bin\Debug\netcoreapp1.1\10-sumOfChars.dll
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\10-sumOfChars\bin\Debug\netcoreapp1.1\10-sumOfChars.pdb
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\10-sumOfChars\obj\Debug\netcoreapp1.1\10-sumOfChars.AssemblyInfo.cs
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\10-sumOfChars\obj\Debug\netcoreapp1.1\10-sumOfChars.dll
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\10-sumOfChars\obj\Debug\netcoreapp1.1\10-sumOfChars.pdb

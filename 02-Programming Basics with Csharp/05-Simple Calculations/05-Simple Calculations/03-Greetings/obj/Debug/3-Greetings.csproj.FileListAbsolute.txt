@@ -1,5 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\3-Greetings\bin\Debug\3-Greetings.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\3-Greetings\bin\Debug\3-Greetings.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\3-Greetings\bin\Debug\3-Greetings.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\3-Greetings\obj\Debug\3-Greetings.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\3-Greetings\obj\Debug\3-Greetings.pdb

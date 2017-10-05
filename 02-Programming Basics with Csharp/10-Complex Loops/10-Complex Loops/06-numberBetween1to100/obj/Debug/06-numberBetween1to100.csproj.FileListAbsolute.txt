@@ -1,5 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\06-numberBetween1to100\bin\Debug\06-numberBetween1to100.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\06-numberBetween1to100\bin\Debug\06-numberBetween1to100.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\06-numberBetween1to100\bin\Debug\06-numberBetween1to100.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\06-numberBetween1to100\obj\Debug\06-numberBetween1to100.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\06-numberBetween1to100\obj\Debug\06-numberBetween1to100.pdb

@@ -1,5 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\examTest\04\bin\Debug\04.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\examTest\04\bin\Debug\04.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\examTest\04\bin\Debug\04.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\examTest\04\obj\Debug\04.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\examTest\04\obj\Debug\04.pdb

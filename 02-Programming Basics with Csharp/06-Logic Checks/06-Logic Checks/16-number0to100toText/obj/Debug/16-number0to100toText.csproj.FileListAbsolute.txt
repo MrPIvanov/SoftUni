@@ -1,6 +1,0 @@
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\06-Logic Checks\06-Logic Checks\16-number0to100toText\bin\Debug\16-number0to100toText.exe.config
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\06-Logic Checks\06-Logic Checks\16-number0to100toText\bin\Debug\16-number0to100toText.exe
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\06-Logic Checks\06-Logic Checks\16-number0to100toText\bin\Debug\16-number0to100toText.pdb
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\06-Logic Checks\06-Logic Checks\16-number0to100toText\obj\Debug\16-number0to100toText.csprojResolveAssemblyReference.cache
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\06-Logic Checks\06-Logic Checks\16-number0to100toText\obj\Debug\16-number0to100toText.exe
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\06-Logic Checks\06-Logic Checks\16-number0to100toText\obj\Debug\16-number0to100toText.pdb

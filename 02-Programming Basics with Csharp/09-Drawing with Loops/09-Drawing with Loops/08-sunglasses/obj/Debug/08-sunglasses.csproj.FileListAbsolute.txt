@@ -1,6 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\08-sunglasses\bin\Debug\08-sunglasses.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\08-sunglasses\bin\Debug\08-sunglasses.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\08-sunglasses\bin\Debug\08-sunglasses.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\08-sunglasses\obj\Debug\08-sunglasses.csprojResolveAssemblyReference.cache
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\08-sunglasses\obj\Debug\08-sunglasses.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\08-sunglasses\obj\Debug\08-sunglasses.pdb

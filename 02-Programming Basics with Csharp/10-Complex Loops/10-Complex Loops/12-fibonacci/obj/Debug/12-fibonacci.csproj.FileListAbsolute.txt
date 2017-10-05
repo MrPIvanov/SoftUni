@@ -1,5 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\12-fibonacci\bin\Debug\12-fibonacci.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\12-fibonacci\bin\Debug\12-fibonacci.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\12-fibonacci\bin\Debug\12-fibonacci.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\12-fibonacci\obj\Debug\12-fibonacci.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\12-fibonacci\obj\Debug\12-fibonacci.pdb

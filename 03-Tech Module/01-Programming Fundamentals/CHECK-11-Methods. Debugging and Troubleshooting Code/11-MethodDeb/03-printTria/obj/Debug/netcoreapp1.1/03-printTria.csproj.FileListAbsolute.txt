@@ -1,8 +1,0 @@
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\03-printTria\bin\Debug\netcoreapp1.1\03-printTria.deps.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\03-printTria\bin\Debug\netcoreapp1.1\03-printTria.runtimeconfig.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\03-printTria\bin\Debug\netcoreapp1.1\03-printTria.runtimeconfig.dev.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\03-printTria\bin\Debug\netcoreapp1.1\03-printTria.dll
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\03-printTria\bin\Debug\netcoreapp1.1\03-printTria.pdb
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\03-printTria\obj\Debug\netcoreapp1.1\03-printTria.AssemblyInfo.cs
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\03-printTria\obj\Debug\netcoreapp1.1\03-printTria.dll
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\11-Methods. Debugging and Troubleshooting Code\11-MethodDeb\03-printTria\obj\Debug\netcoreapp1.1\03-printTria.pdb

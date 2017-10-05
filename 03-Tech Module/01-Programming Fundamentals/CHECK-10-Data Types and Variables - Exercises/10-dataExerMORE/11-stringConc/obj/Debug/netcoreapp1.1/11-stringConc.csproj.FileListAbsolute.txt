@@ -1,8 +1,0 @@
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\11-stringConc\bin\Debug\netcoreapp1.1\11-stringConc.deps.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\11-stringConc\bin\Debug\netcoreapp1.1\11-stringConc.runtimeconfig.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\11-stringConc\bin\Debug\netcoreapp1.1\11-stringConc.runtimeconfig.dev.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\11-stringConc\bin\Debug\netcoreapp1.1\11-stringConc.dll
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\11-stringConc\bin\Debug\netcoreapp1.1\11-stringConc.pdb
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\11-stringConc\obj\Debug\netcoreapp1.1\11-stringConc.AssemblyInfo.cs
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\11-stringConc\obj\Debug\netcoreapp1.1\11-stringConc.dll
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\11-stringConc\obj\Debug\netcoreapp1.1\11-stringConc.pdb

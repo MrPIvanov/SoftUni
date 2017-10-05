@@ -1,6 +1,0 @@
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\01-practiceInt\bin\Debug\01-practiceInt.exe.config
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\01-practiceInt\bin\Debug\01-practiceInt.exe
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\01-practiceInt\bin\Debug\01-practiceInt.pdb
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\01-practiceInt\obj\Debug\01-practiceInt.csprojResolveAssemblyReference.cache
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\01-practiceInt\obj\Debug\01-practiceInt.exe
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\01-practiceInt\obj\Debug\01-practiceInt.pdb

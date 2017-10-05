@@ -1,5 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\6-CircleAreaAndPerimeter\bin\Debug\6-CircleAreaAndPerimeter.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\6-CircleAreaAndPerimeter\bin\Debug\6-CircleAreaAndPerimeter.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\6-CircleAreaAndPerimeter\bin\Debug\6-CircleAreaAndPerimeter.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\6-CircleAreaAndPerimeter\obj\Debug\6-CircleAreaAndPerimeter.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\6-CircleAreaAndPerimeter\obj\Debug\6-CircleAreaAndPerimeter.pdb

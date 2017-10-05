@@ -1,5 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\9-celsiusToFarenheit\bin\Debug\9-celsiusToFarenheit.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\9-celsiusToFarenheit\bin\Debug\9-celsiusToFarenheit.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\9-celsiusToFarenheit\bin\Debug\9-celsiusToFarenheit.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\9-celsiusToFarenheit\obj\Debug\9-celsiusToFarenheit.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\5-Simple Calculations\5-homeWork\9-celsiusToFarenheit\obj\Debug\9-celsiusToFarenheit.pdb

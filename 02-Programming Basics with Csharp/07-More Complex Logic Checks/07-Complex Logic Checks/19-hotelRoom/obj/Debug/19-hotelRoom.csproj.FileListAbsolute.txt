@@ -1,6 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\19-hotelRoom\bin\Debug\19-hotelRoom.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\19-hotelRoom\bin\Debug\19-hotelRoom.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\19-hotelRoom\bin\Debug\19-hotelRoom.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\19-hotelRoom\obj\Debug\19-hotelRoom.csprojResolveAssemblyReference.cache
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\19-hotelRoom\obj\Debug\19-hotelRoom.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\19-hotelRoom\obj\Debug\19-hotelRoom.pdb

@@ -1,8 +1,0 @@
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\14-intToHex\bin\Debug\netcoreapp1.1\14-intToHex.deps.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\14-intToHex\bin\Debug\netcoreapp1.1\14-intToHex.runtimeconfig.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\14-intToHex\bin\Debug\netcoreapp1.1\14-intToHex.runtimeconfig.dev.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\14-intToHex\bin\Debug\netcoreapp1.1\14-intToHex.dll
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\14-intToHex\bin\Debug\netcoreapp1.1\14-intToHex.pdb
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\14-intToHex\obj\Debug\netcoreapp1.1\14-intToHex.AssemblyInfo.cs
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\14-intToHex\obj\Debug\netcoreapp1.1\14-intToHex.dll
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExercises\14-intToHex\obj\Debug\netcoreapp1.1\14-intToHex.pdb

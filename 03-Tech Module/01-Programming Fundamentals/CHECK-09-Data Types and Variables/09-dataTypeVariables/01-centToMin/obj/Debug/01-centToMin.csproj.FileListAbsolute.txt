@@ -1,6 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\09-Data Types and Variables\09-dataTypeVariables\01-centToMin\bin\Debug\01-centToMin.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\09-Data Types and Variables\09-dataTypeVariables\01-centToMin\bin\Debug\01-centToMin.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\09-Data Types and Variables\09-dataTypeVariables\01-centToMin\bin\Debug\01-centToMin.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\09-Data Types and Variables\09-dataTypeVariables\01-centToMin\obj\Debug\01-centToMin.csprojResolveAssemblyReference.cache
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\09-Data Types and Variables\09-dataTypeVariables\01-centToMin\obj\Debug\01-centToMin.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\09-Data Types and Variables\09-dataTypeVariables\01-centToMin\obj\Debug\01-centToMin.pdb

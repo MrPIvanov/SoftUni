@@ -1,5 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\07-bigestDivisor\bin\Debug\07-bigestDivisor.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\07-bigestDivisor\bin\Debug\07-bigestDivisor.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\07-bigestDivisor\bin\Debug\07-bigestDivisor.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\07-bigestDivisor\obj\Debug\07-bigestDivisor.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\07-bigestDivisor\obj\Debug\07-bigestDivisor.pdb

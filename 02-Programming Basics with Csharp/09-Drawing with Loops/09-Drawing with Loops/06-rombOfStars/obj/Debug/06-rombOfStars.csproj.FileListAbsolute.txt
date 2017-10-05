@@ -1,5 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\06-rombOfStars\bin\Debug\06-rombOfStars.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\06-rombOfStars\bin\Debug\06-rombOfStars.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\06-rombOfStars\bin\Debug\06-rombOfStars.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\06-rombOfStars\obj\Debug\06-rombOfStars.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\9-Drawing with loops\9-homeWork\06-rombOfStars\obj\Debug\06-rombOfStars.pdb

@@ -1,6 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\17-numberOperations\bin\Debug\17-numberOperations.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\17-numberOperations\bin\Debug\17-numberOperations.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\17-numberOperations\bin\Debug\17-numberOperations.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\17-numberOperations\obj\Debug\17-numberOperations.csprojResolveAssemblyReference.cache
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\17-numberOperations\obj\Debug\17-numberOperations.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\17-numberOperations\obj\Debug\17-numberOperations.pdb

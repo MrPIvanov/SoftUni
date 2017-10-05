@@ -1,5 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\09-sumDigits\bin\Debug\09-sumDigits.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\09-sumDigits\bin\Debug\09-sumDigits.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\09-sumDigits\bin\Debug\09-sumDigits.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\09-sumDigits\obj\Debug\09-sumDigits.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\09-sumDigits\obj\Debug\09-sumDigits.pdb

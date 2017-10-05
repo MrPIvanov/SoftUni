@@ -1,9 +1,0 @@
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\06-catchThief\bin\Debug\netcoreapp1.1\06-catchThief.deps.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\06-catchThief\bin\Debug\netcoreapp1.1\06-catchThief.runtimeconfig.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\06-catchThief\bin\Debug\netcoreapp1.1\06-catchThief.runtimeconfig.dev.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\06-catchThief\bin\Debug\netcoreapp1.1\06-catchThief.dll
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\06-catchThief\bin\Debug\netcoreapp1.1\06-catchThief.pdb
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\06-catchThief\obj\Debug\netcoreapp1.1\06-catchThief.csprojResolveAssemblyReference.cache
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\06-catchThief\obj\Debug\netcoreapp1.1\06-catchThief.AssemblyInfo.cs
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\06-catchThief\obj\Debug\netcoreapp1.1\06-catchThief.dll
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\06-catchThief\obj\Debug\netcoreapp1.1\06-catchThief.pdb

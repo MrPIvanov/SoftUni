@@ -1,8 +1,0 @@
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\12-beerKings\bin\Debug\netcoreapp1.1\12-beerKings.deps.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\12-beerKings\bin\Debug\netcoreapp1.1\12-beerKings.runtimeconfig.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\12-beerKings\bin\Debug\netcoreapp1.1\12-beerKings.runtimeconfig.dev.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\12-beerKings\bin\Debug\netcoreapp1.1\12-beerKings.dll
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\12-beerKings\bin\Debug\netcoreapp1.1\12-beerKings.pdb
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\12-beerKings\obj\Debug\netcoreapp1.1\12-beerKings.AssemblyInfo.cs
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\12-beerKings\obj\Debug\netcoreapp1.1\12-beerKings.dll
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\12-beerKings\obj\Debug\netcoreapp1.1\12-beerKings.pdb

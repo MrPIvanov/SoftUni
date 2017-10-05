@@ -1,6 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\11-diffNums\bin\Debug\11-diffNums.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\11-diffNums\bin\Debug\11-diffNums.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\11-diffNums\bin\Debug\11-diffNums.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\11-diffNums\obj\Debug\11-diffNums.csprojResolveAssemblyReference.cache
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\11-diffNums\obj\Debug\11-diffNums.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Tech Module\Progr Fund\06-C# Conditional Statements and Loops - Exercises\06-loopsExer\11-diffNums\obj\Debug\11-diffNums.pdb

@@ -1,6 +1,0 @@
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\07-More Complex Logic Checks\07-Complex Logic Checks\05-invalidNumber\bin\Debug\05-invalidNumber.exe.config
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\07-More Complex Logic Checks\07-Complex Logic Checks\05-invalidNumber\bin\Debug\05-invalidNumber.exe
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\07-More Complex Logic Checks\07-Complex Logic Checks\05-invalidNumber\bin\Debug\05-invalidNumber.pdb
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\07-More Complex Logic Checks\07-Complex Logic Checks\05-invalidNumber\obj\Debug\05-invalidNumber.csprojResolveAssemblyReference.cache
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\07-More Complex Logic Checks\07-Complex Logic Checks\05-invalidNumber\obj\Debug\05-invalidNumber.exe
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\02-Programming Basics with Csharp\07-More Complex Logic Checks\07-Complex Logic Checks\05-invalidNumber\obj\Debug\05-invalidNumber.pdb

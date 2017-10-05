@@ -1,6 +1,0 @@
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\Tech Module\Programming Fundamentals\CHECK-06-C# Conditional Statements and Loops - Exercises\06-loopsExer\07-cakeIngrea\bin\Debug\07-cakeIngrea.exe.config
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\Tech Module\Programming Fundamentals\CHECK-06-C# Conditional Statements and Loops - Exercises\06-loopsExer\07-cakeIngrea\bin\Debug\07-cakeIngrea.exe
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\Tech Module\Programming Fundamentals\CHECK-06-C# Conditional Statements and Loops - Exercises\06-loopsExer\07-cakeIngrea\bin\Debug\07-cakeIngrea.pdb
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\Tech Module\Programming Fundamentals\CHECK-06-C# Conditional Statements and Loops - Exercises\06-loopsExer\07-cakeIngrea\obj\Debug\07-cakeIngrea.csprojResolveAssemblyReference.cache
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\Tech Module\Programming Fundamentals\CHECK-06-C# Conditional Statements and Loops - Exercises\06-loopsExer\07-cakeIngrea\obj\Debug\07-cakeIngrea.exe
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\Tech Module\Programming Fundamentals\CHECK-06-C# Conditional Statements and Loops - Exercises\06-loopsExer\07-cakeIngrea\obj\Debug\07-cakeIngrea.pdb

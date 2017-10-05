@@ -1,9 +1,0 @@
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\13-decrypting\bin\Debug\netcoreapp1.1\13-decrypting.deps.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\13-decrypting\bin\Debug\netcoreapp1.1\13-decrypting.runtimeconfig.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\13-decrypting\bin\Debug\netcoreapp1.1\13-decrypting.runtimeconfig.dev.json
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\13-decrypting\bin\Debug\netcoreapp1.1\13-decrypting.dll
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\13-decrypting\bin\Debug\netcoreapp1.1\13-decrypting.pdb
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\13-decrypting\obj\Debug\netcoreapp1.1\13-decrypting.csprojResolveAssemblyReference.cache
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\13-decrypting\obj\Debug\netcoreapp1.1\13-decrypting.AssemblyInfo.cs
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\13-decrypting\obj\Debug\netcoreapp1.1\13-decrypting.dll
-D:\Study\Soft Uni\Soft Uni Lectures and Homeworks\03-Tech Module\01-Programming Fundamentals\10-Data Types and Variables - Exercises\10-dataExerMORE\13-decrypting\obj\Debug\netcoreapp1.1\13-decrypting.pdb

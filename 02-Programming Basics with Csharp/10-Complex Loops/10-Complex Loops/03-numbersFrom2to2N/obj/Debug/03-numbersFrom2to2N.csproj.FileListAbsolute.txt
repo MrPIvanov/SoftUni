@@ -1,5 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\03-numbersFrom2to2N\bin\Debug\03-numbersFrom2to2N.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\03-numbersFrom2to2N\bin\Debug\03-numbersFrom2to2N.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\03-numbersFrom2to2N\bin\Debug\03-numbersFrom2to2N.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\03-numbersFrom2to2N\obj\Debug\03-numbersFrom2to2N.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\10-Complex Loops\10-homeWork\03-numbersFrom2to2N\obj\Debug\03-numbersFrom2to2N.pdb

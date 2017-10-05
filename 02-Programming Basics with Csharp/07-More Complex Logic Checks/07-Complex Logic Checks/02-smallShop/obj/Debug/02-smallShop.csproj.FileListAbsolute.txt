@@ -1,6 +1,0 @@
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\02-smallShop\bin\Debug\02-smallShop.exe.config
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\02-smallShop\bin\Debug\02-smallShop.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\02-smallShop\bin\Debug\02-smallShop.pdb
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\02-smallShop\obj\Debug\02-smallShop.csprojResolveAssemblyReference.cache
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\02-smallShop\obj\Debug\02-smallShop.exe
-C:\Users\PI i Ofi\Documents\Visual Studio 2017\Projects\softUni\Csharp Basics\7-Complex Conditions\7-homeWork\02-smallShop\obj\Debug\02-smallShop.pdb
