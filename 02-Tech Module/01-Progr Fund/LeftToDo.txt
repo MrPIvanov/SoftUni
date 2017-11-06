@@ -1,0 +1,13 @@
+18.Dictionaries More
+19.Objects Lab
+20.Objects More
+21.Files and Exceptions Lab
+22.Files and Exceptions More
+23.Strings Lab
+25.RegEx Lab
+26.RegEx Exercisses
+26.RegEx More
+27.Exam Preparation 1
+28.Exam Preparation 2
+29.Exam Preparation 3
+30.Practical Exam
