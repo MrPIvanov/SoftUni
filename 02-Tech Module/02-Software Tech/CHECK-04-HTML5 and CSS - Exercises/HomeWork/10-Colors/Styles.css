@@ -1,0 +1,30 @@
+
+.greenP{
+    text-align: center;
+    border: 2px solid green;
+    border-radius: 10px;
+background-color: gray;
+}
+.redP{
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 10px;
+    background-color: gray;
+
+}
+.blueP{
+    text-align: center;
+    border: 2px solid blue;
+    border-radius: 10px;
+    background-color: gray;
+
+}
+span.red{
+    color: red;
+}
+span.blue{
+    color: blue;
+}
+span.green{
+    color: green;
+}
