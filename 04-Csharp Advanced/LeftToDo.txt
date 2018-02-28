@@ -1,4 +1,7 @@
 -Stacks and Queues Exercises
 -Multidimensional Arrays Exercises
 -Streams Exercises
--
+-Functional Programing Exercises
+-Bash Soft Part 1
+-Exam Preparation 1
+-Exam Preparation 3
