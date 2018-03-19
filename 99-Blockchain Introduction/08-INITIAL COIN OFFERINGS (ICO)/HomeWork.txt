@@ -1,0 +1,17 @@
+1. Done.
+2. 50 000.
+3. Yes: "ERC-721 protocol for non-fungible tokens"
+4. No: "The EOS Tokens do not have any rights, uses, purpose, attributes, functionalities or features,
+ express or implied, including, without limitation, any uses, purpose,
+ attributes, functionalities or features on the EOS Platform."
+5.  -The EOS Token distribution will take place over 341 days starting on June 26, 2017 at 13:00 UTC.
+	-200,000,000 EOS Tokens (20% of the total amount of EOS Tokens to be distributed) will be distributed during
+	a 5 day period beginning on June 26, 2017 at 13:00 UTC and ending on July 1, 2017 at 12:59:59 UTC 
+	(the “First Period”).
+	-700,000,000 EOS Tokens (70% of the total amount of EOS Tokens to be distributed) will then be split evenly
+	into 350 consecutive 23 hour periods of 2,000,000 EOS tokens each beginning on July 1, 2017 at 13:00:00 UTC.
+	-100,000,000 EOS (10% of the total amount of EOS Tokens to be distributed) will be reserved for
+	block.one and cannot be traded or transferred on the Ethereum network
+	-To participate in the EOS Token distribution, you will need an Ethereum compatible wallet or an application
+	where you and only you hold the private keys.
+	-The minimum contribution accepted during any period of the EOS Token distribution is 0.01 ETH.
