@@ -79,17 +79,3 @@
 360
 375
 333
-
-
-
-Multiplier: 1.07 Step 1 => ETH: 1 EUR:  66 975
-Multiplier: 1.17 Step 1 => ETH: 1 EUR:  88 750
-Multiplier: 1.27 Step 1 => ETH: 1 EUR:  84 909
-Multiplier: 1.37 Step 1 => ETH: 1 EUR:  75 144
-Multiplier: 1.47 Step 1 => ETH: 1 EUR:  57 329
-Multiplier: 1.57 Step 1 => ETH: 1 EUR:  39 901
-Multiplier: 1.67 Step 1 => ETH: 1 EUR: 138 536
-Multiplier: 1.77 Step 1 => ETH: 1 EUR: 139 751
-Multiplier: 1.87 Step 1 => ETH: 1 EUR: 137 588
-Multiplier: 1.97 Step 1 => ETH: 1 EUR: 133 889
-Multiplier: 2.07 Step 1 => ETH: 1 EUR: 135 774
