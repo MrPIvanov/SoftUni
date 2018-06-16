@@ -1,6 +1,0 @@
--Defining Classes Exercises
--Abstraction Exercises
--Encapsulation Exercises
--Enheritance Exercises
--Interfaces Exercises
--

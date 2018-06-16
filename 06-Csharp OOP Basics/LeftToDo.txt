@@ -1,0 +1,6 @@
+-04-Defining Classes Exercises
+-06-Abstraction Exercises
+-08-Encapsulation Exercises
+-10-Inheritance Exercises
+-12-Interfaces Exercises
+-13-Start to watch and exercise normaly
