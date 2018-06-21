@@ -1,4 +1,3 @@
--06-Multidimensional Arrays Exercises
 -08-Streams Exercises
 -10-Functional Programing Exercises
 -11-Bash Soft Part 1
