@@ -1,0 +1,176 @@
+.cache
+--01-OddLines.AssemblyInfoInputs.cache - 0.041kb
+--01-OddLines.csproj.CoreCompileInputs.cache - 0.041kb
+--02-LineNumbers.AssemblyInfoInputs.cache - 0.041kb
+--02-LineNumbers.csproj.CoreCompileInputs.cache - 0.041kb
+--03-WordCount.AssemblyInfoInputs.cache - 0.041kb
+--03-WordCount.csproj.CoreCompileInputs.cache - 0.041kb
+--04-CopyBinaryFile.AssemblyInfoInputs.cache - 0.041kb
+--04-CopyBinaryFile.csproj.CoreCompileInputs.cache - 0.041kb
+--05-SlicingFile.AssemblyInfoInputs.cache - 0.041kb
+--05-SlicingFile.csproj.CoreCompileInputs.cache - 0.041kb
+--06-ZippingSlicedFiles.AssemblyInfoInputs.cache - 0.041kb
+--06-ZippingSlicedFiles.csproj.CoreCompileInputs.cache - 0.041kb
+--07-DirectoryTraversal.AssemblyInfoInputs.cache - 0.041kb
+--07-DirectoryTraversal.csproj.CoreCompileInputs.cache - 0.041kb
+--08-FullDirectoryTraversal.AssemblyInfoInputs.cache - 0.041kb
+--08-FullDirectoryTraversal.csproj.CoreCompileInputs.cache - 0.041kb
+--09-HTTPServer.AssemblyInfoInputs.cache - 0.041kb
+--09-HTTPServer.csproj.CoreCompileInputs.cache - 0.041kb
+--01-OddLines.csproj.nuget.cache - 0.146kb
+--02-LineNumbers.csproj.nuget.cache - 0.146kb
+--03-WordCount.csproj.nuget.cache - 0.146kb
+--04-CopyBinaryFile.csproj.nuget.cache - 0.146kb
+--05-SlicingFile.csproj.nuget.cache - 0.146kb
+--06-ZippingSlicedFiles.csproj.nuget.cache - 0.146kb
+--07-DirectoryTraversal.csproj.nuget.cache - 0.146kb
+--08-FullDirectoryTraversal.csproj.nuget.cache - 0.146kb
+--09-HTTPServer.csproj.nuget.cache - 0.146kb
+--01-OddLines.csprojResolveAssemblyReference.cache - 469.235kb
+--02-LineNumbers.csprojResolveAssemblyReference.cache - 469.235kb
+--03-WordCount.csprojResolveAssemblyReference.cache - 469.235kb
+--05-SlicingFile.csprojResolveAssemblyReference.cache - 469.235kb
+--07-DirectoryTraversal.csprojResolveAssemblyReference.cache - 469.235kb
+--08-FullDirectoryTraversal.csprojResolveAssemblyReference.cache - 469.235kb
+.json
+--01-OddLines.runtimeconfig.json - 0.150kb
+--02-LineNumbers.runtimeconfig.json - 0.150kb
+--03-WordCount.runtimeconfig.json - 0.150kb
+--04-CopyBinaryFile.runtimeconfig.json - 0.150kb
+--05-SlicingFile.runtimeconfig.json - 0.150kb
+--06-ZippingSlicedFiles.runtimeconfig.json - 0.150kb
+--07-DirectoryTraversal.runtimeconfig.json - 0.150kb
+--08-FullDirectoryTraversal.runtimeconfig.json - 0.150kb
+--09-HTTPServer.runtimeconfig.json - 0.150kb
+--01-OddLines.runtimeconfig.dev.json - 0.236kb
+--02-LineNumbers.runtimeconfig.dev.json - 0.236kb
+--03-WordCount.runtimeconfig.dev.json - 0.236kb
+--04-CopyBinaryFile.runtimeconfig.dev.json - 0.236kb
+--05-SlicingFile.runtimeconfig.dev.json - 0.236kb
+--06-ZippingSlicedFiles.runtimeconfig.dev.json - 0.236kb
+--07-DirectoryTraversal.runtimeconfig.dev.json - 0.236kb
+--08-FullDirectoryTraversal.runtimeconfig.dev.json - 0.236kb
+--09-HTTPServer.runtimeconfig.dev.json - 0.236kb
+--01-OddLines.deps.json - 0.454kb
+--03-WordCount.deps.json - 0.457kb
+--09-HTTPServer.deps.json - 0.460kb
+--02-LineNumbers.deps.json - 0.463kb
+--05-SlicingFile.deps.json - 0.463kb
+--04-CopyBinaryFile.deps.json - 0.472kb
+--06-ZippingSlicedFiles.deps.json - 0.483kb
+--07-DirectoryTraversal.deps.json - 0.483kb
+--08-FullDirectoryTraversal.deps.json - 0.495kb
+--project.assets.json - 347.622kb
+.txt
+--words.txt - 0.016kb
+--03-WordCount.txt - 0.029kb
+--text.txt - 0.121kb
+--02-LineNumbers.txt - 0.142kb
+--07-DirectoryTraversal-Report.txt - 0.727kb
+--09-HTTPServer.csproj.FileListAbsolute.txt - 1.338kb
+--04-CopyBinaryFile.csproj.FileListAbsolute.txt - 1.416kb
+--01-OddLines.csproj.FileListAbsolute.txt - 1.451kb
+--03-WordCount.csproj.FileListAbsolute.txt - 1.473kb
+--06-ZippingSlicedFiles.csproj.FileListAbsolute.txt - 1.494kb
+--02-LineNumbers.csproj.FileListAbsolute.txt - 1.516kb
+--05-SlicingFile.csproj.FileListAbsolute.txt - 1.516kb
+--07-DirectoryTraversal.csproj.FileListAbsolute.txt - 1.666kb
+--08-FullDirectoryTraversal.csproj.FileListAbsolute.txt - 1.752kb
+--08-DirectoryTraversal-Report.txt - 7.178kb
+.cs
+--01-OddLines.AssemblyInfo.cs - 0.982kb
+--03-WordCount.AssemblyInfo.cs - 0.985kb
+--09-HTTPServer.AssemblyInfo.cs - 0.988kb
+--02-LineNumbers.AssemblyInfo.cs - 0.991kb
+--05-SlicingFile.AssemblyInfo.cs - 0.991kb
+--04-CopyBinaryFile.AssemblyInfo.cs - 1.000kb
+--06-ZippingSlicedFiles.AssemblyInfo.cs - 1.012kb
+--07-DirectoryTraversal.AssemblyInfo.cs - 1.012kb
+--08-FullDirectoryTraversal.AssemblyInfo.cs - 1.023kb
+--StartUp.cs - 20.190kb
+.csproj
+--01-OddLines.csproj - 0.174kb
+--02-LineNumbers.csproj - 0.174kb
+--03-WordCount.csproj - 0.174kb
+--04-CopyBinaryFile.csproj - 0.174kb
+--05-SlicingFile.csproj - 0.174kb
+--06-ZippingSlicedFiles.csproj - 0.174kb
+--07-DirectoryTraversal.csproj - 0.174kb
+--08-FullDirectoryTraversal.csproj - 0.174kb
+--09-HTTPServer.csproj - 0.174kb
+.dll
+--01-OddLines.dll - 9.000kb
+--02-LineNumbers.dll - 10.000kb
+--04-CopyBinaryFile.dll - 10.000kb
+--05-SlicingFile.dll - 12.000kb
+--06-ZippingSlicedFiles.dll - 13.000kb
+--03-WordCount.dll - 14.000kb
+--07-DirectoryTraversal.dll - 14.000kb
+--09-HTTPServer.dll - 14.000kb
+--08-FullDirectoryTraversal.dll - 15.000kb
+.pdb
+--01-OddLines.pdb - 1.313kb
+--02-LineNumbers.pdb - 1.367kb
+--04-CopyBinaryFile.pdb - 1.398kb
+--07-DirectoryTraversal.pdb - 2.266kb
+--03-WordCount.pdb - 2.594kb
+--09-HTTPServer.pdb - 2.688kb
+--05-SlicingFile.pdb - 2.703kb
+--06-ZippingSlicedFiles.pdb - 2.891kb
+--08-FullDirectoryTraversal.pdb - 2.938kb
+.props
+--01-OddLines.csproj.nuget.g.props - 1.579kb
+--03-WordCount.csproj.nuget.g.props - 1.580kb
+--09-HTTPServer.csproj.nuget.g.props - 1.581kb
+--02-LineNumbers.csproj.nuget.g.props - 1.582kb
+--05-SlicingFile.csproj.nuget.g.props - 1.582kb
+--04-CopyBinaryFile.csproj.nuget.g.props - 1.585kb
+--06-ZippingSlicedFiles.csproj.nuget.g.props - 1.589kb
+--07-DirectoryTraversal.csproj.nuget.g.props - 1.589kb
+--08-FullDirectoryTraversal.csproj.nuget.g.props - 1.593kb
+.targets
+--01-OddLines.csproj.nuget.g.targets - 0.958kb
+--02-LineNumbers.csproj.nuget.g.targets - 0.958kb
+--03-WordCount.csproj.nuget.g.targets - 0.958kb
+--04-CopyBinaryFile.csproj.nuget.g.targets - 0.958kb
+--05-SlicingFile.csproj.nuget.g.targets - 0.958kb
+--06-ZippingSlicedFiles.csproj.nuget.g.targets - 0.958kb
+--07-DirectoryTraversal.csproj.nuget.g.targets - 0.958kb
+--08-FullDirectoryTraversal.csproj.nuget.g.targets - 0.958kb
+--09-HTTPServer.csproj.nuget.g.targets - 0.958kb
+.mp4
+--05-SlicingFile-Part-05.mp4 - 1396.000kb
+--05-SlicingFile-Part-01.mp4 - 1400.000kb
+--05-SlicingFile-Part-02.mp4 - 1400.000kb
+--05-SlicingFile-Part-03.mp4 - 1400.000kb
+--05-SlicingFile-Part-04.mp4 - 1400.000kb
+--05-SlicingFile-Assembled.mp4 - 6996.000kb
+--06-ZippingSlicedFiles-Assembled.mp4 - 6996.000kb
+--sliceMe.mp4 - 6996.830kb
+.gz
+--06-ZippingSlicedFiles-Part-01.mp4.gz - 1374.005kb
+--06-ZippingSlicedFiles-Part-05.mp4.gz - 1381.474kb
+--06-ZippingSlicedFiles-Part-03.mp4.gz - 1396.932kb
+--06-ZippingSlicedFiles-Part-04.mp4.gz - 1397.003kb
+--06-ZippingSlicedFiles-Part-02.mp4.gz - 1399.567kb
+.html
+--info.html - 0.152kb
+--error.html - 0.169kb
+--index.html - 0.260kb
+.png
+--copyMe.png - 9.136kb
+--04-CopyBinaryFile.png - 12.000kb
+.docx
+--03. Streams-Exercise.docx - 515.160kb
+.ide
+--storage.ide - 664.000kb
+.ide-shm
+--storage.ide-shm - 32.000kb
+.ide-wal
+--storage.ide-wal - 40.266kb
+.lock
+--db.lock - 0.000kb
+.sln
+--08-StreamsExercises.sln - 5.054kb
+.suo
+--.suo - 44.000kb

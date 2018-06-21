@@ -1,0 +1,20 @@
+.mp4
+--05-SlicingFile-Part-05.mp4 - 1396.000kb
+--05-SlicingFile-Part-01.mp4 - 1400.000kb
+--05-SlicingFile-Part-02.mp4 - 1400.000kb
+--05-SlicingFile-Part-03.mp4 - 1400.000kb
+--05-SlicingFile-Part-04.mp4 - 1400.000kb
+--05-SlicingFile-Assembled.mp4 - 6996.000kb
+--06-ZippingSlicedFiles-Assembled.mp4 - 6996.000kb
+.gz
+--06-ZippingSlicedFiles-Part-01.mp4.gz - 1374.005kb
+--06-ZippingSlicedFiles-Part-05.mp4.gz - 1381.474kb
+--06-ZippingSlicedFiles-Part-03.mp4.gz - 1396.932kb
+--06-ZippingSlicedFiles-Part-04.mp4.gz - 1397.003kb
+--06-ZippingSlicedFiles-Part-02.mp4.gz - 1399.567kb
+.txt
+--03-WordCount.txt - 0.029kb
+--02-LineNumbers.txt - 0.142kb
+--07-DirectoryTraversal-Report.txt - 0.682kb
+.png
+--04-CopyBinaryFile.png - 12.000kb
