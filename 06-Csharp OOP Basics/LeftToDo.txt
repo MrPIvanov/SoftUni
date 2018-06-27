@@ -1,4 +1,3 @@
--06-Abstraction Exercises
 -08-Encapsulation Exercises
 -10-Inheritance Exercises
 -12-Interfaces Exercises

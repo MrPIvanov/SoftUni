@@ -12,13 +12,10 @@ namespace _1_excellentResult
         {
             double grade = double.Parse(Console.ReadLine());
 
-            if (grade>=5.50)
+            if (grade >= 5.50)
             {
                 Console.WriteLine("Excellent!");
             }
-
-
-
         }
     }
 }
