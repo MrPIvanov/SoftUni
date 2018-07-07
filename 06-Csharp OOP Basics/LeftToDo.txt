@@ -1,2 +1,0 @@
--10-Inheritance Exercises
--12-Interfaces Exercises
