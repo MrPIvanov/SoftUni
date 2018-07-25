@@ -1,7 +1,10 @@
-﻿public class StartUp
+﻿[SoftUni("Ventsi")]
+public class StartUp
 {
-    static void Main()
+    [SoftUni("Gosho")]
+    public static void Main(string[] args)
     {
-
+        var tracker = new Tracker();
+        tracker.PrintMethodsByAuthor();
     }
 }
