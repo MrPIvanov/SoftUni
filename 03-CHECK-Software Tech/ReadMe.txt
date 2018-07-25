@@ -1,2 +1,2 @@
-Some PHP and Java homeworks, and practical exams are missing.
+Some PHP and Java homeworks,exam preparations and practical exams are missing.
 I am not going to finish them...
