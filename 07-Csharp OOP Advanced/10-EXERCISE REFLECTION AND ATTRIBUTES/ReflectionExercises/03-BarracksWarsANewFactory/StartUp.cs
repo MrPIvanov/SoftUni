@@ -1,7 +1,7 @@
-﻿public class StartUp
-{
-    static void Main()
-    {
+﻿//public class StartUp
+//{
+//    static void Main()
+//    {
 
-    }
-}
+//    }
+//}
