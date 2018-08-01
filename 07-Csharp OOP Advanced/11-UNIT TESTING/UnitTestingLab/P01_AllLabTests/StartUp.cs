@@ -1,4 +1,4 @@
-﻿public class StartUp
+﻿class StartUp
 {
     static void Main()
     {
