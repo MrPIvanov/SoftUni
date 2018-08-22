@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DataDefinitionAndDatatypesLab", "03-DATABASES INTRODUCTION. DATA DEFINITION AND DATATYPES\DataDefinitionAndDatatypesLab\DataDefinitionAndDatatypesLab.ssmssqlproj", "{FE000C8E-DABB-4424-8F8E-B0CB16603DBD}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DataDefinitionAndDatatypesExercises", "04-EXERCISE DATA DEFINITION AND DATATYPES\DataDefinitionAndDatatypesExercises\DataDefinitionAndDatatypesExercises.ssmssqlproj", "{9E2DB2EB-9103-4FF0-8B87-C5D56AF8AC33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19C9CF81-3B47-4DC3-B46B-32FBD659A9DC}.Default|Default.ActiveCfg = Default
+		{FE000C8E-DABB-4424-8F8E-B0CB16603DBD}.Default|Default.ActiveCfg = Default
+		{9E2DB2EB-9103-4FF0-8B87-C5D56AF8AC33}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
