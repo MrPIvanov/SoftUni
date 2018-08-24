@@ -1,3 +1,5 @@
+USE Bank
+
 CREATE FUNCTION f_CalculateTotalBalance (@ClientID INT)
 RETURNS DECIMAL(15, 2)
 BEGIN

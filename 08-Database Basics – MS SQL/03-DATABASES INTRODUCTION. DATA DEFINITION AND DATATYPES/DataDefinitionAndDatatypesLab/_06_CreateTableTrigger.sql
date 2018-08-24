@@ -1,3 +1,5 @@
+USE Bank
+
 CREATE TABLE Transactions (
 	Id INT PRIMARY KEY IDENTITY,
 	AccountId INT FOREIGN KEY REFERENCES Accounts(Id),
