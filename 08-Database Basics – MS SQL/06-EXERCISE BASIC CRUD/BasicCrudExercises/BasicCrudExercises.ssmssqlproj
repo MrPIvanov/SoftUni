@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BasicCrudExercises">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(LocalDB)\MSSQLLocalDB:DESKTOP-4861MDU\PI i Ofi">
+          <Created>2018-08-27T07:20:13.8224451+03:00</Created>
+          <Type>SQL</Type>
+          <Server>(LocalDB)\MSSQLLocalDB</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="_01_CreateDiabloDB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_01_CreateDiabloDB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_01_CreateGeographyDB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_01_CreateGeographyDB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_01_CreateSoftUniDB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_01_CreateSoftUniDB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_02_FindAllInformationAboutDepartments.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_02_FindAllInformationAboutDepartments.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_03_FindAllDepartmentNames.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_03_FindAllDepartmentNames.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_04_FindSalaryOfEachEmployee.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_04_FindSalaryOfEachEmployee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_05_FindFullNameOfEachEmployee.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_05_FindFullNameOfEachEmployee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_06_FindEmailAddressOfEachEmployee.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_06_FindEmailAddressOfEachEmployee.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_07_FindAllDifferentEmployee’sSalaries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_07_FindAllDifferentEmployee’sSalaries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_08_FindAllInformationAboutEmployees.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_08_FindAllInformationAboutEmployees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_09_FindNamesOfAllEmployeesBySalaryInRange.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_09_FindNamesOfAllEmployeesBySalaryInRange.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_10_FindNamesOfAllEmployees .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_10_FindNamesOfAllEmployees .sql</FullPath>
+        </FileNode>
+        <FileNode Name="_11_FindAllEmployeesWithoutManager.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_11_FindAllEmployeesWithoutManager.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_12_FindAllEmployeesWithSalaryMoreThan50000.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_12_FindAllEmployeesWithSalaryMoreThan50000.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_13_Find5BestPaidEmployees.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_13_Find5BestPaidEmployees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_14_FindAllEmployeesExceptMarketing.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_14_FindAllEmployeesExceptMarketing.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_15_SortEmployeesTable.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_15_SortEmployeesTable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_16_CreateViewEmployeesWithSalaries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_16_CreateViewEmployeesWithSalaries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_17_CreateViewEmployeesWithJobTitles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_17_CreateViewEmployeesWithJobTitles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_18_DistinctJobTitles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_18_DistinctJobTitles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_19_FindFirst10StartedProjects.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_19_FindFirst10StartedProjects.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_20_Last7HiredEmployees.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_20_Last7HiredEmployees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_21_IncreaseSalaries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_21_IncreaseSalaries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_22_AllMountainPeaks.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_22_AllMountainPeaks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_23_BiggestCountriesByPopulation.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_23_BiggestCountriesByPopulation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_24_CountriesAndCurrency.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_24_CountriesAndCurrency.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_25_AllDiabloCharacters.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_25_AllDiabloCharacters.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
