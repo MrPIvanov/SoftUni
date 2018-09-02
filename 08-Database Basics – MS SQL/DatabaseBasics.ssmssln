@@ -9,6 +9,10 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DataDefinitionAndDatatypesE
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "BasicCrudExercises", "06-EXERCISE BASIC CRUD\BasicCrudExercises\BasicCrudExercises.ssmssqlproj", "{DF4DF426-02C8-49C9-A872-51877F8033E7}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CreateDatabasesFromResources", "CreateDatabasesFromResources\CreateDatabasesFromResources.ssmssqlproj", "{C590B321-3B94-4BDB-8ACD-C2441E81B45A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "BuiltInFunctionsExercises", "08-EXERCISE BUILT-IN FUNCTIONS\BuiltInFunctionsExercises\BuiltInFunctionsExercises.ssmssqlproj", "{C269416F-5386-41C1-92E7-651118377D6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -17,7 +21,9 @@ Global
 		{FE000C8E-DABB-4424-8F8E-B0CB16603DBD}.Default|Default.ActiveCfg = Default
 		{9E2DB2EB-9103-4FF0-8B87-C5D56AF8AC33}.Default|Default.ActiveCfg = Default
 		{DF4DF426-02C8-49C9-A872-51877F8033E7}.Default|Default.ActiveCfg = Default
-		{3D66F9B8-A2EC-4FEA-8CD8-E4EF5BCD7E4C}.Default|Default.ActiveCfg = Default
+		{C590B321-3B94-4BDB-8ACD-C2441E81B45A}.Default|Default.ActiveCfg = Default
+		{C269416F-5386-41C1-92E7-651118377D6C}.Default|Default.ActiveCfg = Default
+		{4EFB6B08-16FD-4B28-8D34-1CC49B6D088B}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

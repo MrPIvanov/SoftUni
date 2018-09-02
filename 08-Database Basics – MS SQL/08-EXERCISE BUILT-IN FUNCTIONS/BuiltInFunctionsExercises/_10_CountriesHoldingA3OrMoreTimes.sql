@@ -1,0 +1,7 @@
+USE [Geography]
+GO
+
+SELECT CountryName, IsoCode
+  FROM Countries
+ WHERE CountryName LIKE '%a%a%a%'
+ORDER BY IsoCode ASC
