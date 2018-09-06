@@ -37,6 +37,18 @@
           <AssociatedConnUserName />
           <FullPath>GeographyDB.sql</FullPath>
         </FileNode>
+        <FileNode Name="GringottsDB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>GringottsDB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="IncomesDB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>IncomesDB.sql</FullPath>
+        </FileNode>
         <FileNode Name="OrdersDB.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
