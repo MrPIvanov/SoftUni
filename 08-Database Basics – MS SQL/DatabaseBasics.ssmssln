@@ -17,6 +17,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DataAggregationExercises", 
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "TableRelationsExercises", "12-EXERCISE TABLE RELATIONS\TableRelationsExercises\TableRelationsExercises.ssmssqlproj", "{94CF5153-17A0-43C4-8315-7D09B945549E}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "JoinsAndSubqueriesExercises", "14-EXERCISE SUBQUERIES AND JOINS\JoinsAndSubqueriesExercises\JoinsAndSubqueriesExercises.ssmssqlproj", "{3382A627-7CD4-4ADE-8735-D3B242D9CE71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -29,7 +31,8 @@ Global
 		{C269416F-5386-41C1-92E7-651118377D6C}.Default|Default.ActiveCfg = Default
 		{A21DD98A-FF29-4B8E-A11D-02AB718D8011}.Default|Default.ActiveCfg = Default
 		{94CF5153-17A0-43C4-8315-7D09B945549E}.Default|Default.ActiveCfg = Default
-		{920295D5-7974-4AD1-861D-4D369A4EDDD1}.Default|Default.ActiveCfg = Default
+		{3382A627-7CD4-4ADE-8735-D3B242D9CE71}.Default|Default.ActiveCfg = Default
+		{FE9DF29C-C99E-4E45-8010-5DEF6BDD27F3}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
