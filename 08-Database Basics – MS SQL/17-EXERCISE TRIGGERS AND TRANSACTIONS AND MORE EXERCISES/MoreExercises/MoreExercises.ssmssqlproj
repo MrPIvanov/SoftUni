@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MoreExercises">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(LocalDB)\MSSQLLocalDB:DESKTOP-4861MDU\PI i Ofi">
+          <Created>2018-09-29T17:28:51.0166554+03:00</Created>
+          <Type>SQL</Type>
+          <Server>(LocalDB)\MSSQLLocalDB</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="_01_NumberOfUsersForEmailProvider.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_01_NumberOfUsersForEmailProvider.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_02_AllUserInGames.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_02_AllUserInGames.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_03_UsersInGamesWithTheirItems.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_03_UsersInGamesWithTheirItems.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_04_UserInGamesWithTheirStatistics.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_04_UserInGamesWithTheirStatistics.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_05_AllItemsWithGreaterThanAverageStatistics.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_05_AllItemsWithGreaterThanAverageStatistics.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_06_DisplayAllItemsWithInformationAboutForbiddenGameType.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_06_DisplayAllItemsWithInformationAboutForbiddenGameType.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_07_BuyItemsForUserInGame.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_07_BuyItemsForUserInGame.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_08_PeaksAndMountains.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_08_PeaksAndMountains.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_09_PeaksWithTheirMountainCountryAndContinent.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_09_PeaksWithTheirMountainCountryAndContinent.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_10_RiversByCountry.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_10_RiversByCountry.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_11_CountOfCountriesByCurrency.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_11_CountOfCountriesByCurrency.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_12_PopulationAndAreaByContinent.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_12_PopulationAndAreaByContinent.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_13_MonasteriesByCountry.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_13_MonasteriesByCountry.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_14_MonasteriesByContinentsAndCountries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_14_MonasteriesByContinentsAndCountries.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

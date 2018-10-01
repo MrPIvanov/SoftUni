@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="FuncProcTrigersTransExersices">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(LocalDB)\MSSQLLocalDB:DESKTOP-4861MDU\PI i Ofi">
+          <Created>2018-09-28T14:06:53.5442851+03:00</Created>
+          <Type>SQL</Type>
+          <Server>(LocalDB)\MSSQLLocalDB</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="_01_EmployeesWithSalaryAbove35000.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_01_EmployeesWithSalaryAbove35000.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_02_EmployeesWithSalaryAboveNumber.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_02_EmployeesWithSalaryAboveNumber.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_03_TownNamesStartingWith.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_03_TownNamesStartingWith.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_04_EmployeesFromTown.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_04_EmployeesFromTown.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_05_SalaryLevelFunction.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_05_SalaryLevelFunction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_06_EmployeesBySalaryLevel.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_06_EmployeesBySalaryLevel.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_07_DefineFunction.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_07_DefineFunction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_08_DeleteEmployeesAndDepartments.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_08_DeleteEmployeesAndDepartments.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_09_FindFullName.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_09_FindFullName.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_10_PeopleWithBalanceHigherThan.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_10_PeopleWithBalanceHigherThan.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_11_FutureValueFunction.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_11_FutureValueFunction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_12_CalculatingInterest.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_12_CalculatingInterest.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_13_CashInUserGamesOddRows.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_13_CashInUserGamesOddRows.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_14_CreateTableLogs.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_14_CreateTableLogs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_15_CreateTableEmails.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_15_CreateTableEmails.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_16_DepositMoney.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_16_DepositMoney.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_17_WithdrawMoney.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_17_WithdrawMoney.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_18_MoneyTransfer.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_18_MoneyTransfer.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_19_Trigger.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_19_Trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_20_MassiveShopping.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_20_MassiveShopping.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_21_EmployeesWithThreeProjects.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_21_EmployeesWithThreeProjects.sql</FullPath>
+        </FileNode>
+        <FileNode Name="_22_DeleteEmployees.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>_22_DeleteEmployees.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
