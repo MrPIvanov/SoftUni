@@ -55,6 +55,12 @@
           <AssociatedConnUserName />
           <FullPath>IncomesDB.sql</FullPath>
         </FileNode>
+        <FileNode Name="MiniORM.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>MiniORM.sql</FullPath>
+        </FileNode>
         <FileNode Name="OrdersDB.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
