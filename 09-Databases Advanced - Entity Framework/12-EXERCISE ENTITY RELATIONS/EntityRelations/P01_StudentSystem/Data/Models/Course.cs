@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Text;
+
+namespace P01_StudentSystem.Data.Models
+{
+    public class Course
+    {
+
+        public Course()
+        {
+            this.StudentsEnrolled = new List<StudentCourse>();
+            this.HomeworkSubmissions = new List<Homework>();
+            this.Resources = new List<Resource>();
+        }
+
+        [Key]
+        public int CourseId { get; set; }
+
+        [Column(TypeName = "nvarchar(80)")]
+        [Required]
+        public string Name { get; set; }
+
+        public string Description { get; set; }
+
+        public DateTime StartDate { get; set; }
+
+        public DateTime EndDate { get; set; }
+
+        public decimal Price { get; set; }
+
+        public ICollection<StudentCourse> StudentsEnrolled { get; set; }
+
+        public ICollection<Resource> Resources { get; set; }
+
+        public ICollection<Homework> HomeworkSubmissions { get; set; }
+    }
+}
