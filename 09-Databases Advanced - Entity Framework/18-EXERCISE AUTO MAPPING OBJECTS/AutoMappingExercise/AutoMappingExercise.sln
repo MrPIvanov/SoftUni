@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMappingExercise", "AutoMappingExercise\AutoMappingExercise.csproj", "{1916B363-827F-4307-BB7D-171D96AA4801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1916B363-827F-4307-BB7D-171D96AA4801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1916B363-827F-4307-BB7D-171D96AA4801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1916B363-827F-4307-BB7D-171D96AA4801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1916B363-827F-4307-BB7D-171D96AA4801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6395C678-9B7B-4AE6-B9D5-A7B07CFF023A}
+	EndGlobalSection
+EndGlobal
