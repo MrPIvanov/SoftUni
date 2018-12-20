@@ -1,43 +1,29 @@
-﻿namespace Travel
+﻿using Travel.Core;
+using Travel.Core.Contracts;
+using Travel.Core.Controllers;
+using Travel.Core.Controllers.Contracts;
+using Travel.Core.IO;
+using Travel.Core.IO.Contracts;
+using Travel.Entities;
+using Travel.Entities.Contracts;
+
+namespace Travel
 {
-	using System.IO;
-	using System.Linq;
-	using Core;
-	using Core.Contracts;
-	using Core.Controllers;
-	using Core.Controllers.Contracts;
-	using Core.IO;
-	using Core.IO.Contracts;
-	using Entities;
-	using Entities.Airplanes;
-	using Entities.Contracts;
-
-	// god loves ugly
-	public static class StartUp
+    public static class StartUp
 	{
-		public static void Main(string[] args)
+		public static void Main()
 		{
-			IReader reader;
+            IReader reader = new ConsoleReader();
+            IWriter writer = new ConsoleWriter();
 
-			if (args.Length == 1)
-			{
-				var testPath = args.First();
-				reader = new Core.IO.StringReader(File.ReadAllText(testPath));
-			}
-			else
-			{
-				reader = new ConsoleReader();
-			}
+            IAirport airport = new Airport();
 
-			IWriter writer = new ConsoleWriter();
+            IAirportController airportController = new AirportController(airport);
+            IFlightController flightController = new FlightController(airport);
 
-			var airport = new Airport();
-			var airportController = new AirportController(airport);
-			var flightController = new FlightController(airport);
+            IEngine engine = new Engine(reader ,writer, airportController, flightController);
 
-			var engine = new Engine(reader, writer, airportController, flightController);
-
-			engine.ВдигниСамолета();
+            engine.Run();
 		}
 	}
 }

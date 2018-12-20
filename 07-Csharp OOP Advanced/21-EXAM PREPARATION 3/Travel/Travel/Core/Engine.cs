@@ -1,10 +1,11 @@
-﻿namespace Travel.Core
-{
-	using System.Linq;
-	using Contracts;
-	using Controllers.Contracts;
-	using IO.Contracts;
+﻿using System;
+using System.Linq;
+using Travel.Core.Contracts;
+using Travel.Core.Controllers.Contracts;
+using Travel.Core.IO.Contracts;
 
+namespace Travel.Core
+{
 	public class Engine : IEngine
 	{
 		private readonly IReader reader;
@@ -13,8 +14,10 @@
 		private readonly IAirportController airportController;
 		private readonly IFlightController flightController;
 
-		public Engine(IReader reader, IWriter writer, IAirportController airportController,
-			IFlightController flightController)
+		public Engine(IReader reader,
+                      IWriter writer,
+                      IAirportController airportController,
+			          IFlightController flightController)
 		{
 			this.reader = reader;
 			this.writer = writer;
@@ -22,7 +25,7 @@
 			this.flightController = flightController;
 		}
 
-		public void ВдигниСамолета()
+		public void Run()
 		{
 			while (true)
 			{
@@ -38,7 +41,7 @@
 					var result = this.ProcessCommand(input);
 					Console.WriteLine(result);
 				}
-				catch (System.InvalidOperationException ex)
+				catch (Exception ex)
 				{
 					Console.WriteLine("ERROR: " + ex.Message);
 				}
@@ -47,9 +50,9 @@
 
 		public string ProcessCommand(string input)
 		{
-			var tokens = input.Split(' ');
+			var tokens = input.Split();
 
-			var command = tokens.First();
+			var command = tokens[0];
 			var args = tokens.Skip(1).ToArray();
 
 			switch (command)
@@ -72,7 +75,7 @@
 				case "RegisterBag":
 				{
 					var username = args[0];
-					var bagItems = args.Skip(1);
+					var bagItems = args.Skip(1).ToArray();
 
 					var output = this.airportController.RegisterBag(username, bagItems);
 					return output;
@@ -81,7 +84,7 @@
 				{
 					var username = args[0];
 					var tripId = args[1];
-					var bagCheckInIndices = args.Skip(2).Select(Int32.Parse);
+					var bagCheckInIndices = args.Skip(2).Select(int.Parse).ToArray();
 
 					var output = this.airportController.CheckIn(username, tripId, bagCheckInIndices);
 					return output;
@@ -92,8 +95,8 @@
 					return output;
 				}
 				default:
-					throw new System.InvalidOperationException("Invalid command!");
+					throw new InvalidOperationException("Invalid command!");
 			}
 		}
-	}
+    }
 }

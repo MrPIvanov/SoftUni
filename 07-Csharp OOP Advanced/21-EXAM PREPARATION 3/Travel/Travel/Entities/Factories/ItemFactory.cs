@@ -1,32 +1,20 @@
-﻿namespace Travel.Entities.Factories
-{
-	using Contracts;
-	using Items;
-	using Items.Contracts;
+﻿using System;
+using System.Linq;
+using System.Reflection;
+using Travel.Entities.Factories.Contracts;
+using Travel.Entities.Items.Contracts;
 
-	public class ItemFactory : IItemFactory
-	{
-		public IItem CreateItem(string type)
-		{
-			switch (type)
-			{
-				case "Item":
-					return new Item();
-				case "CellPhone":
-					return new Colombian();
-				case "Colombian":
-					return new Colombian();
-				case "Jewelery":
-					return new Jewelery();
-				case "Laptop":
-					return new Laptop();
-				case "toothbrush":
-					return new Toothbrush();
-				case "TravelKit":
-					return new TravelKit();
-				default:
-					return new Soap();
-			}
-		}
-	}
+namespace Travel.Entities.Factories
+{
+    public class ItemFactory : IItemFactory
+    {
+        public IItem CreateItem(string type)
+        {
+            var itemType = Assembly.GetCallingAssembly().GetTypes().FirstOrDefault(x => x.Name == type);
+
+            var item = (IItem)Activator.CreateInstance(itemType);
+
+            return item;
+        }
+    }
 }

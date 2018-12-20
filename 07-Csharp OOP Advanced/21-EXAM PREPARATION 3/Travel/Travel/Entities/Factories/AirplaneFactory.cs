@@ -1,21 +1,20 @@
-﻿namespace Travel.Entities.Factories
-{
-	using Contracts;
-	using Airplanes.Contracts;
+﻿using System;
+using System.Linq;
+using System.Reflection;
+using Travel.Entities.Airplanes.Contracts;
+using Travel.Entities.Factories.Contracts;
 
-	public class AirplaneFactory : IAirplaneFactory
-	{
-		public IAirplane CreateAirplane(string type)
-		{
-			switch (type)
-			{
-				case "LightAirplane":
-					return new LightAirplane();
-				case "MediumAirplane":
-					return new MediumAirplane();
-				default:
-					return new Airplane();
-			}
-		}
-	}
+namespace Travel.Entities.Factories
+{
+    public class AirplaneFactory : IAirplaneFactory
+    {
+        public IAirplane CreateAirplane(string type)
+        {
+            var planeType = Assembly.GetCallingAssembly().GetTypes().FirstOrDefault(x => x.Name == type);
+
+            var plane =  (IAirplane)Activator.CreateInstance(planeType);
+
+            return plane;
+        }
+    }
 }

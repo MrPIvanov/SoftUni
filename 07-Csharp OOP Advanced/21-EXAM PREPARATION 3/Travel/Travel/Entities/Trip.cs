@@ -1,13 +1,8 @@
-﻿namespace Travel.Entities
-{
-	using Airplanes.Contracts;
-	using Contracts;
+﻿using Travel.Entities.Airplanes.Contracts;
+using Travel.Entities.Contracts;
 
-	/* 3/3
-	 * I'll take a quiet life
-	 * A handshake of carbon monoxide
-	 * With no alarms and no surprises
-	 */
+namespace Travel.Entities
+{
 	public class Trip : ITrip
 	{
 		private static int id = 1;
@@ -21,15 +16,15 @@
 			this.Id = GenerateId(source, destination);
 		}
 
-		public string Id { get; }
+		public string Id { get; private set; }
 
-		public string Source { get; }
+		public string Source { get; private set; }
 
-		public string Destination { get; }
+		public string Destination { get; private set; }
 
 		public bool IsCompleted { get; private set; }
 
-		public IAirplane Airplane { get; }
+		public IAirplane Airplane { get; private set; }
 
 		public void Complete() => this.IsCompleted = true;
 

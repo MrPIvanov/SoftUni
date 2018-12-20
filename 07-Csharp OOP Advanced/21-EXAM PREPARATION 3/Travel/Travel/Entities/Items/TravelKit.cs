@@ -3,7 +3,7 @@
 	public class TravelKit : Item
 	{
 		public TravelKit()
-			: base(value: 30)
+			: base(30)
 		{
 		}
 	}

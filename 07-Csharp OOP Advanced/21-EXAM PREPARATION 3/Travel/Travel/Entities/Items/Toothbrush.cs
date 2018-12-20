@@ -3,7 +3,7 @@
 	public class Toothbrush : Item
 	{
 		public Toothbrush()
-			: base(value: 3)
+			: base(3)
 		{
 		}
 	}

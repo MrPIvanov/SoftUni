@@ -1,27 +1,21 @@
-﻿namespace Travel.Entities
+﻿using System.Collections.Generic;
+using System.Linq;
+using Travel.Entities.Contracts;
+using Travel.Entities.Items.Contracts;
+
+namespace Travel.Entities
 {
-	using System.Collections.Generic;
-	using System.Linq;
-
-	using Contracts;
-	using Items.Contracts;
-
-	/* 1/3
-	 * A heart that's full up like a landfill
-	 * A job that slowly kills you
-	 * Bruises that won't heal...
-	 */
 	public class Bag : IBag
 	{
-		private List<IItem> items;
+		private readonly List<IItem> items;
 
 		public Bag(IPassenger owner, IEnumerable<IItem> items)
 		{
-			this.Owner = owner.Bags[0].Owner;
+			this.Owner = owner;
 			this.items = items.ToList();
 		}
 
-		public IPassenger Owner { get; }
+		public IPassenger Owner { get; private set; }
 
 		public IReadOnlyCollection<IItem> Items => this.items.AsReadOnly();
 	}

@@ -3,7 +3,7 @@
 	public class Laptop : Item
 	{
 		public Laptop()
-			: base(value: 3000)
+			: base(3000)
 		{
 		}
 	}

@@ -8,15 +8,16 @@
 	using Entities.Contracts;
 	using Entities.Factories;
 	using Entities.Factories.Contracts;
+    using Travel.Entities.Items.Contracts;
 
-	public class AirportController : IAirportController
+    public class AirportController : IAirportController
 	{
-		private const int BagValueConfiscationThreshold = 0x3000;
+		private const int BagValueConfiscationThreshold = 3000;
 
 		private IAirport airport;
 
-		private IAirplaneFactory airplaneFactory = null;
-		private IItemFactory itemFactory;
+		private readonly IAirplaneFactory airplaneFactory;
+		private readonly IItemFactory itemFactory;
 
 		public AirportController(IAirport airport)
 		{
@@ -32,7 +33,7 @@
 				throw new InvalidOperationException($"Passenger {username} already registered!");
 			}
 
-			var passenger = new Passenger(username);
+            IPassenger passenger = new Passenger(username);
 
 			this.airport.AddPassenger(passenger);
 
@@ -43,8 +44,9 @@
 		{
 			var passenger = this.airport.GetPassenger(username);
 
-			var items = bagItems.Select(i => new Item()).ToArray();
-			var bag = new Bag(passenger, items);
+            IItem[] items = bagItems.Select(i => this.itemFactory.CreateItem(i)).ToArray();
+
+			IBag bag = new Bag(passenger, items);
 
 			passenger.Bags.Add(bag);
 
@@ -53,9 +55,7 @@
 
 		public string RegisterTrip(string source, string destination, string planeType)
 		{
-			var airplane = new Airplane();
-
-			var trip = new Trip(source, destination, airplane);
+			var trip = new Trip(source, destination, this.airplaneFactory.CreateAirplane(planeType));
 
 			this.airport.AddTrip(trip);
 
@@ -65,14 +65,14 @@
 		public string CheckIn(string username, string tripId, IEnumerable<int> bagIndices)
 		{
 			var passenger = this.airport.GetPassenger(username);
-			var trip = new Trip();
+			var trip = this.airport.GetTrip(tripId);
 
-			var checkedIn = this.trip.Passengers.Any(p => p.Username == username);
-			if (checkedIn)
-			{
-				throw newException;
-			}
-
+            var checkedIn = this.airport.Trips.Any(x => x.Airplane.Passengers.Any(p => p.Username == username));
+            if (checkedIn)
+            {
+                throw new InvalidOperationException($"{username} is already checked in!");
+            }
+            
 			var confiscatedBags = CheckInBags(passenger, bagIndices);
 			trip.Airplane.AddPassenger(passenger);
 
@@ -85,10 +85,10 @@
 			var bags = passenger.Bags;
 
 			var confiscatedBagCount = 0;
-			foreach (var i in bagsToCheckIn)
+			foreach (var bagIndex in bagsToCheckIn)
 			{
-				var currentBag = bags[i];
-				bags.RemoveAt(i);
+				var currentBag = bags[bagIndex];
+				bags.RemoveAt(bagIndex);
 
 				if (ShouldConfiscate(currentBag))
 				{
@@ -108,22 +108,13 @@
 		{
 			var luggageValue = 0;
 
-			for (int i = 0; i <= bag.Items.Count; i++)
-			{
-				luggageValue += bag.Items.ToArray()[i].Value;
-			}
+            foreach (var item in bag.Items)
+            {
+                luggageValue += item.Value;
+            }
 
 			var shouldConfiscate = luggageValue > BagValueConfiscationThreshold;
 			return shouldConfiscate;
 		}
-
-		InvalidOperationException newException = new InvalidOperationException(new string(
-			new[]
-			{
-				32, 105, 115, 32, 97, 108, 114,
-				101, 97, 100, 121, 32, 99, 104,
-				101, 99, 107, 101, 100, 32, 105,
-				110, 33
-			}.Select(c => (char) c).ToArray()));
 	}
 }

@@ -1,8 +1,8 @@
-﻿namespace Travel.Core.IO
-{
-	using System;
-	using Contracts;
+﻿using System;
+using Travel.Core.IO.Contracts;
 
+namespace Travel.Core.IO
+{
 	public class ConsoleReader : IReader
 	{
 		public string ReadLine()
