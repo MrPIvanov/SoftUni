@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3EC198EC-C840-4D1A-AB9E-6DBAC3814120}</ProjectGuid>
+    <ProjectGuid>{A89702FE-7E8E-4334-B63D-10A11750965D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_04_LinkedStack</RootNamespace>
-    <AssemblyName>_04_LinkedStack</AssemblyName>
+    <RootNamespace>_03_ImplementAnArrayBasedStack</RootNamespace>
+    <AssemblyName>_03_ImplementAnArrayBasedStack</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayStack.cs" />
     <Compile Include="StartUp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
