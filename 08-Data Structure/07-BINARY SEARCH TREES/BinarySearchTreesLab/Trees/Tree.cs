@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 public class Tree<T>
 {
@@ -13,16 +12,6 @@ public class Tree<T>
     }
 
     public void Each(Action<T> action)
-    {
-        throw new NotImplementedException();
-    }
-
-    public IEnumerable<T> OrderDFS()
-    {
-        throw new NotImplementedException();
-    }
-
-    public IEnumerable<T> OrderBFS()
     {
         throw new NotImplementedException();
     }
