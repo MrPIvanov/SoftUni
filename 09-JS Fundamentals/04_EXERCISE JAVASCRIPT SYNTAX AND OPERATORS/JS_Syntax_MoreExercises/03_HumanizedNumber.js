@@ -1,8 +1,6 @@
 function solution(text) {
 
-    let words = text.split(",").join(" ").split(".").join(" ").split(" ").filter(function (value) {
-        return value !== "";
-    });
+    let words = text.split(",").join("").split(".").join("").split(" ");
 
     let numbers = [];
 
@@ -17,13 +15,13 @@ function solution(text) {
 
         let result = String(number);
 
-        if (result === "1") {
+        if (result.endsWith("1")) {
             console.log(`${result}st`);
         }
-        else if (result === "2") {
+        else if (result.endsWith("2")) {
             console.log(`${result}nd`);
         }
-        else if (result === "3") {
+        else if (result.endsWith("3")) {
             console.log(`${result}rd`);
         }
         else {
