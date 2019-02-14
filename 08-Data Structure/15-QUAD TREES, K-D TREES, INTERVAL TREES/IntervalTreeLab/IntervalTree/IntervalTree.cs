@@ -31,12 +31,51 @@ public class IntervalTree
 
     public Interval SearchAny(double lo, double hi)
     {
-        throw new NotImplementedException();
+        var current = this.root;
+        while (current != null && !current.interval.Intersects(lo, hi))
+        {
+            if (current.left != null && current.left.max > lo)
+            {
+                current = current.left;
+            }
+            else
+            {
+                current = current.right;
+            }
+        }
+
+        return current?.interval;
     }
+
 
     public IEnumerable<Interval> SearchAll(double lo, double hi)
     {
-        throw new NotImplementedException();
+        var result = new List<Interval>();
+        SeaechAll(this.root, result, lo, hi);
+        return result;
+    }
+
+    private void SeaechAll(Node node, List<Interval> result, double lo, double hi)
+    {
+        if (node == null)
+        {
+            return;
+        }
+
+        if (node.left != null && node.left.interval.Hi > lo)
+        {
+            SeaechAll(node.left, result, lo, hi);
+        }
+
+        if(node.interval.Intersects(lo, hi))
+        {
+            result.Add(node.interval);
+        }
+
+        if (node.right != null && node.right.interval.Lo < hi)
+        {
+            SeaechAll(node.right, result, lo, hi);
+        }
     }
 
     private void EachInOrder(Node node, Action<Interval> action)
@@ -67,7 +106,26 @@ public class IntervalTree
         {
             node.right = Insert(node.right, lo, hi);
         }
-        
+
         return node;
+    }
+
+    private void UpdateMax(Node node)
+    {
+        var maxChild = this.GetMax(node.left, node.right);
+        node.max = this.GetMax(maxChild, node).max;
+    }
+
+    private Node GetMax(Node a, Node b)
+    {
+        if (a == null)
+        {
+            return b;
+        }
+        if (b == null)
+        {
+            return a;
+        }
+        return a.max > b.max ? a : b;
     }
 }

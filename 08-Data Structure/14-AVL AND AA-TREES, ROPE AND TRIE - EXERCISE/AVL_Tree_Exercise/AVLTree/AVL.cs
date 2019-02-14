@@ -23,16 +23,6 @@ public class AVL<T> where T : IComparable<T>
         this.root = this.Insert(this.root, item);
     }
 
-    public void Delete(int v)
-    {
-        throw new NotImplementedException();
-    }
-
-    public void DeleteMin()
-    {
-        throw new NotImplementedException();
-    }
-
     public void EachInOrder(Action<T> action)
     {
         this.EachInOrder(this.root, action);
@@ -60,6 +50,91 @@ public class AVL<T> where T : IComparable<T>
         return node;
     }
 
+    public void Delete(int item)
+    {
+        this.root = Delete(this.root, item);
+    }
+
+    private Node<T> Delete(Node<T> node, int item)
+    {
+        if (node == null)
+        {
+            return null;
+        }
+
+        var cmp = item.CompareTo(node.Value);
+
+        if (cmp < 0)
+        {
+            node.Left = this.Delete(node.Left, item);
+        }
+        else if (cmp > 0)
+        {
+            node.Right = Delete(node.Right, item);
+        }
+        else
+        {
+            if (node.Left == null)
+            {
+                return node.Right;
+            }
+            else if (node.Right == null)
+            {
+                return node.Left;
+            }
+            else
+            {
+                var min = this.GetMin(node.Right);
+
+
+                min.Right = this.DeleteMin(node.Right);
+                min.Left = node.Left;
+                node = min;
+            }
+        }
+
+        node = this.Balance(node);
+        return node;
+    }
+
+    public Node<T> GetMin(Node<T> node)
+    {
+        if (node == null)
+        {
+            return null;
+        }
+
+        if (node.Left == null)
+        {
+            return node;
+        }
+
+        return this.GetMin(node.Left);
+    }
+
+    public void DeleteMin()
+    {
+        this.root = this.DeleteMin(this.root);
+    }
+
+    private Node<T> DeleteMin(Node<T> node)
+    {
+        if (node == null)
+        {
+            return null;
+        }
+
+        if (node.Left == null)
+        {
+            return node.Right;
+        }
+
+        node.Left = this.DeleteMin(node.Left);
+        node = this.Balance(node);
+
+        return node;
+    }
+
     private Node<T> Balance(Node<T> node)
     {
         var balance = Height(node.Left) - Height(node.Right);
@@ -84,6 +159,7 @@ public class AVL<T> where T : IComparable<T>
             node = RotateLeft(node);
         }
 
+        this.UpdateHeight(node);
         return node;
     }
 
