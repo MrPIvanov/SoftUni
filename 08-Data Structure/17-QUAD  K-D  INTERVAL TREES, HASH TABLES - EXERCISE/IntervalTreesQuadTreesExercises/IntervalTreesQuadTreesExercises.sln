@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_SweepAndPrune", "01_SweepAndPrune\01_SweepAndPrune.csproj", "{EBF0064E-7A77-418C-8338-B8DB72375C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_MassEffectGalaxyMap", "03_MassEffectGalaxyMap\03_MassEffectGalaxyMap.csproj", "{FEA6F762-52F1-4F4D-ACB2-D72AE446C630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBF0064E-7A77-418C-8338-B8DB72375C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF0064E-7A77-418C-8338-B8DB72375C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF0064E-7A77-418C-8338-B8DB72375C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF0064E-7A77-418C-8338-B8DB72375C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA6F762-52F1-4F4D-ACB2-D72AE446C630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA6F762-52F1-4F4D-ACB2-D72AE446C630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA6F762-52F1-4F4D-ACB2-D72AE446C630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA6F762-52F1-4F4D-ACB2-D72AE446C630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B19F187A-0CBC-4937-BDEC-C169E0973D3A}
+	EndGlobalSection
+EndGlobal
