@@ -46,6 +46,7 @@
     <Compile Include="ITextEditor.cs" />
     <Compile Include="StartUp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextEditor.cs" />
     <Compile Include="Trie.cs" />
   </ItemGroup>
   <ItemGroup>
