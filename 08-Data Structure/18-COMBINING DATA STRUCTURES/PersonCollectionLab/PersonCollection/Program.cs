@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Linq;
 
-class PlayWithPersons
+public class PlayWithPersons
 {
-    static void Main()
+    public static void Main()
     {
         var persons = new PersonCollection();
         persons.AddPerson("pesho@gmail.com", "Pesho", 28, "Plovdiv");
