@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 /// <summary>
 /// The Task class is the entity that will be used across the application.
 /// Please, do not modify its' constructor, otherwise you might encounter issues

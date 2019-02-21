@@ -1,0 +1,1 @@
+This Solution give 197/200 in Judge.
