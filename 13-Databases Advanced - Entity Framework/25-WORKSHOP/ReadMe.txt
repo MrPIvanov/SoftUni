@@ -1,1 +1,0 @@
-Solution is in folder: 26-WORKSHOP
