@@ -1,0 +1,19 @@
+{
+    "_id": "5c948c7c1280f159229b98f3",
+    "username": "guest",
+    "_kmd": {
+        "lmt": "2019-03-22T07:19:23.976Z",
+        "ect": "2019-03-22T07:19:23.976Z",
+        "authtoken": "c05b7bbb-1716-47b1-9e3e-d0517c625465.AzxDFx4pqsnhwVlYuW2QJZ+dfED3SB/DEQnKJIY9FpU="
+    },
+    "_acl": {
+        "creator": "5c948c7c1280f159229b98f3"
+    }
+}
+
+
+
+
+//URL POST: "https://baas.kinvey.com/user/kid_Hkrzh-GdE/login"
+
+Logvaneto stava s App Key i App Secret pri basic Auth i v body raw slagash obj name i pass na usera kouto iskash

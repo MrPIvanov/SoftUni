@@ -1,0 +1,9 @@
+"New author was assigned"
+
+
+
+
+
+
+//URL: PUT: "https://mrpi-testapp.firebaseio.com/books/2/author.json"
+			And in Body we write new autor name

@@ -1,0 +1,16 @@
+{
+    "version": "3.10.28",
+    "kinvey": "hello MrPI-TestApp",
+    "appName": "MrPI-TestApp",
+    "environmentName": "Development"
+}
+
+
+
+
+
+
+
+
+//URL GET: "https://baas.kinvey.com/appdata/kid_Hkrzh-GdE"   Last part is from Kinvey App Key
+			We need to pick Authorization and select “Basic Auth”. And put our user name and pass.

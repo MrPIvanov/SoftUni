@@ -1,0 +1,20 @@
+{
+    "title": "New Title",
+    "body": "New Post Body",
+    "_acl": {
+        "creator": "5c948c7c1280f159229b98f3"
+    },
+    "_kmd": {
+        "lmt": "2019-03-22T07:32:07.220Z",
+        "ect": "2019-03-22T07:32:07.220Z"
+    },
+    "_id": "5c948f77331ccb31bd1a0e8f"
+}
+
+
+
+
+
+
+//URL POST: "https://baas.kinvey.com/appdata/kid_Hkrzh-GdE/posts"
+			We need Auth(name and pass) and Body - x-www-form-urlencoded we put key and value...

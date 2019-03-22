@@ -1,0 +1,23 @@
+{
+    "books": [
+        null,
+        {
+            "author": "Ivan Vazov",
+            "title": "Under the Yoke"
+        },
+        {
+            "author": "Svetlin Nakov",
+            "title": "C# Fundamentals"
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+//URL: GET "https://mrpi-testapp.firebaseio.com/books.json"

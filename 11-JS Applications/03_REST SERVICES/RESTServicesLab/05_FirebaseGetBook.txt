@@ -1,0 +1,17 @@
+{
+    "author": "Ivan Vazov",
+    "title": "Under the Yoke"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+//URL: GET: "https://mrpi-testapp.firebaseio.com/books/1.json"

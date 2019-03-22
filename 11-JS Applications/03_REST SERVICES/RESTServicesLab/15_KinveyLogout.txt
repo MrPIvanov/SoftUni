@@ -1,0 +1,22 @@
+no input first time
+
+second 
+{
+    "error": "InvalidCredentials",
+    "description": "Invalid credentials. Please retry your request with correct credentials.",
+    "debug": "Authorization token invalid or expired"
+}
+
+
+
+
+
+
+
+
+
+//URL POST: "https://baas.kinvey.com/user/kid_Hkrzh-GdE/_logout"
+
+
+
+in Headers puth key: Authorization value: Kinvey {'token'}

@@ -1,0 +1,33 @@
+[
+    {
+        "_id": "5c948d2322b7c30f34e77882",
+        "body": "this is my post",
+        "title": "post",
+        "_acl": {
+            "creator": "kid_Hkrzh-GdE"
+        },
+        "_kmd": {
+            "lmt": "2019-03-22T07:22:11.803Z",
+            "ect": "2019-03-22T07:22:11.803Z"
+        }
+    },
+    {
+        "_id": "5c948e4cf203bc18db7dfa08",
+        "body": "this is my second post",
+        "title": "Second post",
+        "_acl": {
+            "creator": "kid_Hkrzh-GdE"
+        },
+        "_kmd": {
+            "lmt": "2019-03-22T07:27:08.474Z",
+            "ect": "2019-03-22T07:27:08.474Z"
+        }
+    }
+]
+
+
+
+
+
+
+//URL: GET: "https://baas.kinvey.com/appdata/kid_Hkrzh-GdE/posts"

@@ -1,0 +1,22 @@
+{
+    "title": "edited title",
+    "body": "edited author",
+    "hidden": "true",
+    "_id": "5c948e4cf203bc18db7dfa08",
+    "_acl": {
+        "creator": "kid_Hkrzh-GdE"
+    },
+    "_kmd": {
+        "lmt": "2019-03-22T08:08:51.649Z",
+        "ect": "2019-03-22T07:27:08.474Z"
+    }
+}
+
+
+
+
+
+
+
+//URL: PUT: "https://baas.kinvey.com/appdata/kid_Hkrzh-GdE/posts/5c948e4cf203bc18db7dfa08"
+	We need Auth(name and pass) and Body - x-www-form-urlencoded we put key and value we wont to change
