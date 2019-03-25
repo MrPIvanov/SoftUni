@@ -1,0 +1,1 @@
+This will not work local becouse of "CORS policy"
