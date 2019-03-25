@@ -1,0 +1,1 @@
+I will not finish this task. It is web project, just for example of autoMapper capabilities.
