@@ -28,7 +28,7 @@
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=.;Database=ProductShop;Integrated Security=True");
+                optionsBuilder.UseSqlServer(@"Server=(LocalDB)\MSSQLLocalDB;Database=ProductShop;Integrated Security=True");
             }
         }
 
