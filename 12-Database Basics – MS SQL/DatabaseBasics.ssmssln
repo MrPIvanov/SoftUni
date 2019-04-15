@@ -23,6 +23,10 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "FuncProcTrigersTransExersic
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "MoreExercises", "17-EXERCISE TRIGGERS AND TRANSACTIONS AND MORE EXERCISES\MoreExercises\MoreExercises.ssmssqlproj", "{22FC2B59-0F45-47C0-99A5-10CAC3E026C1}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ExamPrep", "18-EXAM PREPARATION 1\ExamPrep\ExamPrep.ssmssqlproj", "{557713D1-4526-4D88-BF62-AAA4EA961CC4}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EXAM", "20-EXAM\EXAM\EXAM.ssmssqlproj", "{26583BA6-D28A-465E-845D-D29093808E72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -38,7 +42,9 @@ Global
 		{3382A627-7CD4-4ADE-8735-D3B242D9CE71}.Default|Default.ActiveCfg = Default
 		{1C0E4E0F-1187-4B4B-B0FE-517638A2651C}.Default|Default.ActiveCfg = Default
 		{22FC2B59-0F45-47C0-99A5-10CAC3E026C1}.Default|Default.ActiveCfg = Default
-		{76B54893-33EC-4E10-9871-DE60FC26CC58}.Default|Default.ActiveCfg = Default
+		{557713D1-4526-4D88-BF62-AAA4EA961CC4}.Default|Default.ActiveCfg = Default
+		{26583BA6-D28A-465E-845D-D29093808E72}.Default|Default.ActiveCfg = Default
+		{1642EAA9-D009-4CD0-AA89-B852593A58AB}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
