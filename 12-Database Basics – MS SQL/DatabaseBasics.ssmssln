@@ -27,6 +27,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ExamPrep", "18-EXAM PREPARA
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EXAM", "20-EXAM\EXAM\EXAM.ssmssqlproj", "{26583BA6-D28A-465E-845D-D29093808E72}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ExamPrep2", "19-EXAM PREPARATION 2\ExamPrep2\ExamPrep2.ssmssqlproj", "{FA27C9EC-331D-4635-9638-D1F822B2FF82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -44,7 +46,8 @@ Global
 		{22FC2B59-0F45-47C0-99A5-10CAC3E026C1}.Default|Default.ActiveCfg = Default
 		{557713D1-4526-4D88-BF62-AAA4EA961CC4}.Default|Default.ActiveCfg = Default
 		{26583BA6-D28A-465E-845D-D29093808E72}.Default|Default.ActiveCfg = Default
-		{1642EAA9-D009-4CD0-AA89-B852593A58AB}.Default|Default.ActiveCfg = Default
+		{FA27C9EC-331D-4635-9638-D1F822B2FF82}.Default|Default.ActiveCfg = Default
+		{6799B392-530C-46CF-9BBA-FD851E088B3E}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
