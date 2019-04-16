@@ -19,125 +19,131 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="01_.sql">
+        <FileNode Name="00_DataSet.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>01_.sql</FullPath>
+          <FullPath>00_DataSet.sql</FullPath>
         </FileNode>
-        <FileNode Name="02_.sql">
+        <FileNode Name="01_DDL.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>02_.sql</FullPath>
+          <FullPath>01_DDL.sql</FullPath>
         </FileNode>
-        <FileNode Name="03_.sql">
+        <FileNode Name="02_Insert.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>03_.sql</FullPath>
+          <FullPath>02_Insert.sql</FullPath>
         </FileNode>
-        <FileNode Name="04_.sql">
+        <FileNode Name="03_Update.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>04_.sql</FullPath>
+          <FullPath>03_Update.sql</FullPath>
         </FileNode>
-        <FileNode Name="05_.sql">
+        <FileNode Name="04_Delete.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>05_.sql</FullPath>
+          <FullPath>04_Delete.sql</FullPath>
         </FileNode>
-        <FileNode Name="06_.sql">
+        <FileNode Name="05_Trips.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>06_.sql</FullPath>
+          <FullPath>05_Trips.sql</FullPath>
         </FileNode>
-        <FileNode Name="07_.sql">
+        <FileNode Name="06_TheTrPlanes.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>07_.sql</FullPath>
+          <FullPath>06_TheTrPlanes.sql</FullPath>
         </FileNode>
-        <FileNode Name="08_.sql">
+        <FileNode Name="07_FlightProfits.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>08_.sql</FullPath>
+          <FullPath>07_FlightProfits.sql</FullPath>
         </FileNode>
-        <FileNode Name="09_.sql">
+        <FileNode Name="08_PassengersAndPrices.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>09_.sql</FullPath>
+          <FullPath>08_PassengersAndPrices.sql</FullPath>
         </FileNode>
-        <FileNode Name="10_.sql">
+        <FileNode Name="09_MostUsedLuggages.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>10_.sql</FullPath>
+          <FullPath>09_MostUsedLuggages.sql</FullPath>
         </FileNode>
-        <FileNode Name="11_.sql">
+        <FileNode Name="10_PassengerTrips.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>11_.sql</FullPath>
+          <FullPath>10_PassengerTrips.sql</FullPath>
         </FileNode>
-        <FileNode Name="12_.sql">
+        <FileNode Name="11_NonAdventuresPeople.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>12_.sql</FullPath>
+          <FullPath>11_NonAdventuresPeople.sql</FullPath>
         </FileNode>
-        <FileNode Name="13_.sql">
+        <FileNode Name="12_LostLuggages.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>13_.sql</FullPath>
+          <FullPath>12_LostLuggages.sql</FullPath>
         </FileNode>
-        <FileNode Name="14_.sql">
+        <FileNode Name="13_CountOfTrips.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>14_.sql</FullPath>
+          <FullPath>13_CountOfTrips.sql</FullPath>
         </FileNode>
-        <FileNode Name="15_.sql">
+        <FileNode Name="14_FullInfo.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>15_.sql</FullPath>
+          <FullPath>14_FullInfo.sql</FullPath>
         </FileNode>
-        <FileNode Name="16_.sql">
+        <FileNode Name="15_MostExpensiveTrips.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>16_.sql</FullPath>
+          <FullPath>15_MostExpensiveTrips.sql</FullPath>
         </FileNode>
-        <FileNode Name="17_.sql">
+        <FileNode Name="16_DestinationsInfo.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>17_.sql</FullPath>
+          <FullPath>16_DestinationsInfo.sql</FullPath>
         </FileNode>
-        <FileNode Name="18_.sql">
+        <FileNode Name="17_PSP.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>18_.sql</FullPath>
+          <FullPath>17_PSP.sql</FullPath>
         </FileNode>
-        <FileNode Name="19_.sql">
+        <FileNode Name="18_Vacation.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>19_.sql</FullPath>
+          <FullPath>18_Vacation.sql</FullPath>
         </FileNode>
-        <FileNode Name="20_.sql">
+        <FileNode Name="19_WrongData.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>20_.sql</FullPath>
+          <FullPath>19_WrongData.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20_DeletedPlanes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDB)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDB)\MSSQLLocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>20_DeletedPlanes.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
