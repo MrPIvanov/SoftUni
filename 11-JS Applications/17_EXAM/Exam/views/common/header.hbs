@@ -1,0 +1,26 @@
+    {{#if isAuth}}
+      <header class="masthead mb-auto">
+          <div class="inner">
+              <h3 class="masthead-brand">CookUni</h3>
+              <nav class="nav nav-masthead justify-content-center">
+                  <a class="nav-link" href="#/home">Home</a>
+                  <a class="nav-link" href="#/home">Welcome, {{firstName}} {{lastName}}!</a>
+                  <a class="nav-link" href="#/createRecipe">Share recipe</a>
+                  <a class="nav-link" href="#/logout">Logout</a>
+              </nav>
+          </div>
+      </header>
+
+        {{else}}
+      <header class="masthead mb-auto">
+          <div class="inner">
+              <h3 class="masthead-brand">CookUni</h3>
+              <nav class="nav nav-masthead justify-content-center">
+                  <a class="nav-link" href="#/home">Home</a>
+                  <a class="nav-link" href="#/login">Login</a>
+                  <a class="nav-link" href="#/register">Register</a>
+              </nav>
+          </div>
+      </header>
+
+    {{/if}}
