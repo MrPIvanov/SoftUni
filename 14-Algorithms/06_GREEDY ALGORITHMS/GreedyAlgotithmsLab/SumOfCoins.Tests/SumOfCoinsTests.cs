@@ -1,161 +1,158 @@
-﻿namespace SumOfCoins.Tests
+﻿using System;
+using System.Collections.Generic;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+
+[TestClass]
+public class SumOfCoinsTests
 {
-    using System;
-    using System.Collections.Generic;
-    using Microsoft.VisualStudio.TestTools.UnitTesting;
-
-    [TestClass]
-    public class SumOfCoinsTests
+    [TestMethod]
+    public void TestWithProvidedExample()
     {
-        [TestMethod]
-        public void TestWithProvidedExample()
+        var coins = new[] { 1, 2, 5, 10, 20, 50 };
+        var targetSum = 923;
+
+        var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
+
+        var expectedResult = new Dictionary<int, int>
         {
-            var coins = new[] { 1, 2, 5, 10, 20, 50 };
-            var targetSum = 923;
+            [50] = 18,
+            [20] = 1,
+            [2] = 1,
+            [1] = 1
+        };
 
-            var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
+        CollectionAssert.AreEqual(expectedResult, selectedCoins);
+    }
 
-            var expectedResult = new Dictionary<int, int>
-            {
-                [50] = 18,
-                [20] = 1,
-                [2] = 1,
-                [1] = 1
-            };
+    [TestMethod]
+    public void TestWithOneAvailableCoin()
+    {
+        var coins = new[] { 1 };
+        var targetSum = 42;
 
-            CollectionAssert.AreEqual(expectedResult, selectedCoins);
-        }
+        var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
 
-        [TestMethod]
-        public void TestWithOneAvailableCoin()
+        var expectedResult = new Dictionary<int, int>
         {
-            var coins = new[] { 1 };
-            var targetSum = 42;
+            [1] = 42
+        };
 
-            var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
+        CollectionAssert.AreEqual(expectedResult, selectedCoins);
+    }
 
-            var expectedResult = new Dictionary<int, int>
-            {
-                [1] = 42
-            };
+    [TestMethod]
+    [ExpectedException(typeof(InvalidOperationException))]
+    public void TestWithUnreachableSum()
+    {
+        var coins = new[] { 3, 7 };
+        var targetSum = 11;
 
-            CollectionAssert.AreEqual(expectedResult, selectedCoins);
-        }
+        SumOfCoins.ChooseCoins(coins, targetSum);
+    }
 
-        [TestMethod]
-        [ExpectedException(typeof(InvalidOperationException))]
-        public void TestWithUnreachableSum()
+    [TestMethod]
+    public void TestWithSeveralCoins()
+    {
+        var coins = new[] { 1, 2, 5 };
+        var targetSum = 78;
+
+        var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
+
+        var expectedResult = new Dictionary<int, int>
         {
-            var coins = new[] { 3, 7 };
-            var targetSum = 11;
+            [5] = 15,
+            [2] = 1,
+            [1] = 1
+        };
 
-            SumOfCoins.ChooseCoins(coins, targetSum);
-        }
+        CollectionAssert.AreEqual(expectedResult, selectedCoins);
+    }
 
-        [TestMethod]
-        public void TestWithSeveralCoins()
+    [TestMethod]
+    [Timeout(100)]
+    public void TestWithLargeSum()
+    {
+        var coins = new[] { 1, 2, 5 };
+        var targetSum = 2031154123;
+
+        var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
+
+        var expectedResult = new Dictionary<int, int>
         {
-            var coins = new[] { 1, 2, 5 };
-            var targetSum = 78;
+            [5] = 406230824,
+            [2] = 1,
+            [1] = 1
+        };
 
-            var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
+        CollectionAssert.AreEqual(expectedResult, selectedCoins);
+    }
 
-            var expectedResult = new Dictionary<int, int>
-            {
-                [5] = 15,
-                [2] = 1,
-                [1] = 1
-            };
+    [TestMethod]
+    public void TestWithNonOptimalParameters()
+    {
+        var coins = new[] { 1, 9, 10 };
+        var targetSum = 27;
 
-            CollectionAssert.AreEqual(expectedResult, selectedCoins);
-        }
+        var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
 
-        [TestMethod]
-        [Timeout(100)]
-        public void TestWithLargeSum()
+        var expectedResult = new Dictionary<int, int>
         {
-            var coins = new[] { 1, 2, 5 };
-            var targetSum = 2031154123;
+            [10] = 2,
+            [1] = 7
+        };
 
-            var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
+        CollectionAssert.AreEqual(expectedResult, selectedCoins);
+    }
 
-            var expectedResult = new Dictionary<int, int>
-            {
-                [5] = 406230824,
-                [2] = 1,
-                [1] = 1
-            };
+    [TestMethod]
+    public void TestWithSmallCoins()
+    {
+        var coins = new[] { 1, 2, 3, 4 };
+        var targetSum = 1234;
 
-            CollectionAssert.AreEqual(expectedResult, selectedCoins);
-        }
+        var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
 
-        [TestMethod]
-        public void TestWithNonOptimalParameters()
+        var expectedResult = new Dictionary<int, int>
         {
-            var coins = new[] { 1, 9, 10 };
-            var targetSum = 27;
+            [4] = 308,
+            [2] = 1
+        };
 
-            var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
+        CollectionAssert.AreEqual(expectedResult, selectedCoins);
+    }
 
-            var expectedResult = new Dictionary<int, int>
-            {
-                [10] = 2,
-                [1] = 7
-            };
+    [TestMethod]
+    public void TestWithOneCoinNeededOfEachValue()
+    {
+        var coins = new[] { 1000, 200, 30, 4 };
+        var targetSum = 1234;
 
-            CollectionAssert.AreEqual(expectedResult, selectedCoins);
-        }
+        var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
 
-        [TestMethod]
-        public void TestWithSmallCoins()
+        var expectedResult = new Dictionary<int, int>
         {
-            var coins = new[] { 1, 2, 3, 4 };
-            var targetSum = 1234;
+            [1000] = 1,
+            [200] = 1,
+            [30] = 1,
+            [4] = 1
+        };
 
-            var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
+        CollectionAssert.AreEqual(expectedResult, selectedCoins);
+    }
 
-            var expectedResult = new Dictionary<int, int>
-            {
-                [4] = 308,
-                [2] = 1
-            };
+    [TestMethod]
+    public void TestWithOneCoinNeeded()
+    {
+        var coins = new[] { 1, 3, 214, 5 };
+        var targetSum = 214;
 
-            CollectionAssert.AreEqual(expectedResult, selectedCoins);
-        }
+        var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
 
-        [TestMethod]
-        public void TestWithOneCoinNeededOfEachValue()
+        var expectedResult = new Dictionary<int, int>
         {
-            var coins = new[] { 1000, 200, 30, 4 };
-            var targetSum = 1234;
+            [214] = 1
+        };
 
-            var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
-
-            var expectedResult = new Dictionary<int, int>
-            {
-                [1000] = 1,
-                [200] = 1,
-                [30] = 1,
-                [4] = 1
-            };
-
-            CollectionAssert.AreEqual(expectedResult, selectedCoins);
-        }
-
-        [TestMethod]
-        public void TestWithOneCoinNeeded()
-        {
-            var coins = new[] { 1, 3, 214, 5 };
-            var targetSum = 214;
-
-            var selectedCoins = SumOfCoins.ChooseCoins(coins, targetSum);
-
-            var expectedResult = new Dictionary<int, int>
-            {
-                [214] = 1
-            };
-
-            CollectionAssert.AreEqual(expectedResult, selectedCoins);
-        }
+        CollectionAssert.AreEqual(expectedResult, selectedCoins);
     }
 }
