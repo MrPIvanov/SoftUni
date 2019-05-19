@@ -29,7 +29,44 @@ public class StartUp
 
     static List<Item> FillKnapsack(Item[] items, int capacity)
     {
-        return null;
+        var maxValues = new int[items.Length + 1, capacity + 1];
+        var itemIncluded = new bool[items.Length + 1, capacity + 1];
+
+        for (int i = 0; i < items.Length; i++)
+        {
+            for (int currCapacity = 1; currCapacity <= capacity; currCapacity++)
+            {
+                if (items[i].Weight > currCapacity)
+                {
+                    continue;
+                }
+
+                int valueIncluded = items[i].Value + maxValues[i, currCapacity - items[i].Weight];
+                if (valueIncluded > maxValues[i, currCapacity])
+                {
+                    maxValues[i + 1, currCapacity] = valueIncluded;
+                    itemIncluded[i + 1, currCapacity] = true;
+                }
+                else
+                {
+                    maxValues[i + 1, currCapacity] = maxValues[i, currCapacity];
+                }
+            }
+        }
+
+        List<Item> takenItems = new List<Item>();
+        for (int i = items.Length; i > 0; i--)
+        {
+            if (!itemIncluded[i, capacity]) continue;
+
+            Item item = items[i - 1];
+            takenItems.Add(item);
+
+            capacity -= item.Weight;
+        }
+
+        takenItems.Reverse();
+        return takenItems;
     }
 
     private class Item
