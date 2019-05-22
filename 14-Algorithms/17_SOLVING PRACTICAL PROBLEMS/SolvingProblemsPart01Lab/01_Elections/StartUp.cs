@@ -1,41 +1,60 @@
 ﻿using System;
+using System.Linq;
+using System.Numerics;
 
 public class StartUp
 {
-    private static int[] parties;
-
     public static void Main()
     {
         var targetSum = int.Parse(Console.ReadLine());
-        var numberOfParties = int.Parse(Console.ReadLine());
+        var numbers = ReadNumbers();
 
-        parties = new int[numberOfParties];
+        var sumCounts = CalcSumCounts(numbers);
 
-        for (int i = 0; i < numberOfParties; i++)
-        {
-            parties[i] = int.Parse(Console.ReadLine());
-        }
-
-        var resultCounter = 0;
-
-        Generate(0, 0);
-
-        Console.WriteLine(resultCounter);
+        var count = CountMatchingSums(targetSum, sumCounts);
+        Console.WriteLine(count);
     }
 
-    private static void Generate(int indexToFill, int elementToTake)
+    private static BigInteger CountMatchingSums(int targetSum, BigInteger[] sumCounts)
     {
-        if (indexToFill >= parties.Length)
+        BigInteger count = 0;
+        for (int sum = targetSum; sum < sumCounts.Length; sum++)
         {
-            return;
+            count += sumCounts[sum];
         }
 
-        for (int i = indexToFill; i < parties.Length; i++)
-        {
-            if (true)
-            {
+        return count;
+    }
 
+    private static BigInteger[] CalcSumCounts(int[] numbers)
+    {
+        var sumCounts = new BigInteger[numbers.Sum() + 1]; // sum => count possible combinations
+        sumCounts[0] = 1;
+
+        foreach (var number in numbers)
+        {
+            for (int sum = sumCounts.Length - 1; sum >= 0; sum--) // traversing sums backwards
+            {
+                if (sumCounts[sum] != 0)
+                {
+                    sumCounts[sum + number] += sumCounts[sum];
+                }
             }
         }
+
+        return sumCounts;
+    }
+
+    private static int[] ReadNumbers()
+    {
+        var numbersCount = int.Parse(Console.ReadLine());
+        var numbers = new int[numbersCount];
+
+        for (int i = 0; i < numbersCount; i++)
+        {
+            numbers[i] = int.Parse(Console.ReadLine());
+        }
+
+        return numbers;
     }
 }
