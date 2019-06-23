@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cormorant&display=swap');
+
+html {
+    font-size: 16px;
+    font-family: Lato, sans-serif;
+    line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Cormorant, serif;
+    line-height: 1.2;
+    font-weight: bold;
+}
+
+body {
+    padding: 20px;
+}
