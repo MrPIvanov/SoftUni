@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width">
+
+	<title>Working with Forms</title>
+
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	<link rel="stylesheet" href="reveal/css/reveal.min.css">
+	<link rel="stylesheet" href="reveal/css/theme/SoftUni.css" id="theme">
+	<link rel="stylesheet" href="css/solarized_light.css"><!-- For syntax highlighting -->
+
+	<script>document.write( '<link rel="stylesheet" href="reveal/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );</script><!-- If the query includes 'print-pdf', use the PDF print sheet -->
+	<!--[if lt IE 9]><script src="../reveal/lib/js/html5shiv.js"></script><![endif]-->
+</head>
+<body>
+	<div class="reveal">
+		<div class="slides"><!-- Any section element inside of this container is displayed as a slide -->
+			
+			<section>
+	<p>Front End Development Part 1</p>
+	<p><img alt="Site Logo" src="reveal/media/logo.png" width="120"></p>
+	<h1 class="center">Working with Forms</h1>
+</section>
+
+<section>
+	<section>
+		<h2>form</h2>
+		<p>The HTML <code>form</code> element represents a document section that contains interactive controls for submitting information to a web server.</p>
+	</section>
+	<section>
+		<h2>Form method attribute</h2>
+		<p>The HTTP method that the browser uses to submit the form.</p>
+	</section>
+	<section>
+		<h2>Form method attribute - post</h2>
+		<p><code>post</code> - Corresponds to the HTTP POST method ; form data are included in the body of the form and sent to the server.</p>
+	</section>
+	<section>
+		<h2>Form method attribute - get</h2>
+		<p><code>get</code> - Corresponds to the HTTP GET method; form data are appended to the action attribute URI with a '?' as separator, and the resulting URI is sent to the server. Use this method when the form has no side-effects and contains only ASCII characters.</p>
+	</section>
+</section>
+
+<section>
+	<section>
+		<h2>fieldset</h2>
+		<p>The HTML <code>fieldset</code> element is used to group several controls as well as labels within a web form.</p>
+		<p>As the example above shows, the <code>fieldset</code> element provides a grouping for a part of an HTML form, with a nested <code>legend</code> element providing a caption for the <code>fieldset</code>. It takes few attributes, the most notable of which are form, which can contain the id of a <code>form</code> on the same page, allowing you to make the <code>fieldset</code> part of that <code>form</code> even if it is not nested inside it, and disabled, which allows you to disable the <code>fieldset</code> and all its contents in one go.</p>
+	</section>
+	<section>
+		<h2>label</h2>
+		<p>The HTML <code>label</code> element represents a caption for an item in a user interface.</p>
+		<ul>
+			<li>The label text is not only visually associated with its corresponding text input; it is programmatically associated with it too. This means that, for example, a screenreader will read out the label when the user is focused on the form input, making it easier for an assistive technology user to understand what data should be entered.</li>
+			<li>You can click the associated label to focus/activate the input, as well as the input itself. This increased hit area provides an advantage to anyone trying to activate the input, including those using a touch-screen device.</li>
+		</ul>
+		<p>To associate the <code>label</code> with an <code>input</code> element in the way shown in the example above, you need to give the <code>input</code> an id attribute. The <code>label</code> then needs a for attribute whose value is the same as the input's id.</p>
+		<p>In the examples above you can see two form input examples — both with a corresponding <code>label</code>. This offers some major advantages:</p>
+	</section>
+</section>
+
+<section>
+	<section>
+		<h2>Styling forms</h2>
+	</section>
+	<section>
+		<h2>Frameworks</h2>
+		<ul>
+			<li><a href="https://bulma.io/documentation/form">https://bulma.io/documentation/form</a></li>
+			<li><a href="https://semantic-ui.com/collections/form.html">https://semantic-ui.com/collections/form.html</a></li>
+		</ul>
+	</section>
+	<section>
+		<h2>Floating label</h2>
+		<ul>
+			<li><a href="https://codepen.io/callmenick/pen/OxpKNZ">https://codepen.io/callmenick/pen/OxpKNZ</a></li>
+			<li><a href="https://codepen.io/tonystar/pen/LRdpYZ">https://codepen.io/tonystar/pen/LRdpYZ</a></li>
+			<li><a href="https://codepen.io/elujambio/pen/yjwzGP">https://codepen.io/elujambio/pen/yjwzGP</a></li>
+		</ul>
+	</section>
+</section>
+
+<section>
+    <section>
+        <h2>Hosted Forms</h2>
+    </section>
+
+	<section>
+		<h2>Wufoo / SurveyMonkey</h2>
+		<p>These services are under the same umbrella these days. You may know that Chris worked for Wufoo before it was acquired by Survey Monkey. Wufoo is an advertiser here on CSS-Tricks but has not paid for inclusion to this post. We included these services because they just plain work. Wufoo is for any type of web form while SurveyMonkey is likely a better tool specifically for web form surveys.</p>
+	</section>
+
+	<section>
+		<h2>Polldaddy</h2>
+		<p>Polldaddy is from Automattic, the force behind WordPress. Like Wufoo, it's a hosted service and is suited for complex forms, such as surveys. One thing I personally like about (aside from it's clean interface) is that is offers a nice iOS app for collecting form data in other places than a website. That's perfect something like a conference, book signing or some other live event where collecting information in person would be a benefit.</p>
+	</section>
+
+	<section>
+		<h2>Google Forms</h2>
+		<p>Google Forms is unique in this group as it's entirely free. It's part of the Google Docs world along with Slides and Sheets (you can export form data to Sheets). Being a part of that world means inviting collaborators to the forms you build there.</p>
+	</section>
+
+	<section>
+		<h2>Typeform</h2>
+		<p>Typeform builds forms with a unique interface: each question is asked one at at time, more like a real life conversation.</p>
+	</section>
+
+	<section>
+		<h2>WordPress Plugin - Gravity Forms</h2>
+		<p>This is a premium plugin (i.e. costs money) that puts a real form builder in the admin of your site. Gravity Forms allows you to create an unlimited number of forms directly from the WordPress dashboard, includes a slick drag-and-drop interface, and offers all the advanced options you might expect to see in something like Wufoo, such as conditional logic, style customizations and integrations with popular services.</p>
+	</section>
+</section>
+
+<section>
+	<section>
+		<h2>Resources</h2>
+		<ul>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form">https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form</a></li>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form">https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form</a></li>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form">https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form</a></li>
+			<li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Styling_HTML_forms">https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Styling_HTML_forms</a></li>
+		</ul>
+	</section>
+	<section>
+		<h2>Resources</h2>
+		<ul>
+			<li><a href="https://css-tricks.com/tips-for-creating-great-web-forms/">https://css-tricks.com/tips-for-creating-great-web-forms/</a></li>
+			<li><a href="https://css-tricks.com/options-for-web-forms/">https://css-tricks.com/options-for-web-forms/</a></li>
+		</ul>
+	</section>
+</section>
+
+
+		</div>
+	</div>
+	<script src="reveal/lib/js/head.min.js"></script>
+	<script src="reveal/js/reveal.min.js"></script>
+	<script>
+	// https://github.com/hakimel/reveal.js#configuration
+	Reveal.initialize({
+
+		// The "normal" size of the presentation, aspect ratio will be preserved
+		// when the presentation is scaled to fit different resolutions. Can be
+		// specified using percentage units.
+		width: 1600,
+		height: 850,
+
+		// Factor of the display size that should remain empty around the content
+		margin: 0.1,
+
+		// Bounds for smallest/largest possible scale to apply to content
+		minScale: 0.2,
+		maxScale: 1.0,
+		controls: false,
+		progress: false,
+		history: true,
+		keyboard: true,
+		overview: true,
+		center: false,
+		loop: false,
+		autoSlide: 0,
+		mouseWheel: false,
+		rollingLinks: false,
+		transitionSpeed: 'fast', // default/fast/slow
+		transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+		dependencies: [
+			{ src: 'reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+			{ src: 'reveal/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+			{ src: 'reveal/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+			{ src: 'reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+			{ src: 'reveal/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+			{ src: 'reveal/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+		]
+	});
+	</script>
+</body>
+</html>
+
