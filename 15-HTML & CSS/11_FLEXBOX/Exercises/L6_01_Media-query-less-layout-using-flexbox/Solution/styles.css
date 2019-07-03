@@ -1,0 +1,40 @@
+* {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    padding: 3em;
+    flex-wrap: wrap;
+}
+
+body * {
+    border: 1px solid black;
+    border-radius: 0.7em;
+    padding: 1em;
+    box-shadow: 0px 0px 10px 3px #ccc;
+}
+
+header {
+    flex: 1 1 100%;
+    margin-bottom: 1em;
+    height: 25vh;
+}
+
+main {
+    flex: 1 1 65%;
+    margin-right: 1em;
+}
+
+aside {
+    flex: 1 1 30%;
+}
+
+footer {
+    flex: 1 1 100%;
+    margin-top: 1em;
+}

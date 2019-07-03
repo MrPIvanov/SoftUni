@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.gallery,
+body {
+    display: flex;
+}
+
+body {
+    max-width: 80vw;
+    margin: 0 auto;
+}
+
+.gallery,
+.gallery ul {
+    justify-content: space-between;
+    flex: 1 1 auto;
+    margin: 1em;
+    padding: 1em;
+}
+
+.gallery ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.gallery li {
+    display: block;
+    list-style: none;
+    border: 3px solid black;
+    margin-bottom: 2%;
+    flex: 0 0 31%;
+    padding: 1em;
+}
+
+.gallery a {
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.gallery a:before {
+    display: block;
+    content: '';
+    padding-top: 177.77%;
+}
+
+.gallery img {
+    display: block;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
