@@ -1,0 +1,25 @@
+header nav{
+    flex: 1 1 30%;
+    display: flex;
+}
+
+header nav ul{
+    display: flex;
+    flex: 1 1 100%;
+}
+
+header nav ul li{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-right: 0.6rem;
+    border-radius: 5px;
+    background: rgb(45, 45, 45);
+    
+}
+
+header nav ul li a{
+    text-decoration: none;
+    padding: 0.5rem;
+    color: white;
+}

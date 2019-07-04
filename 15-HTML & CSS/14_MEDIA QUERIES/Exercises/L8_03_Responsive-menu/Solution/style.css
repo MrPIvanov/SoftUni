@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+
+header{
+    width: 90%;
+    margin: 0 auto;
+    border-bottom: 1px solid black;
+    display: flex;
+    align-items: center;
+}
+
+header h1{
+    flex: 1 1 70%;
+    padding: 2rem;
+}
+
+header nav{
+    flex: 1 1 30%;
+    display: flex;
+}
+
+header nav ul{
+    display: flex;
+    flex: 1 1 100%;
+   
+}
+
+header nav ul li{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-right: 0.2rem;
+    border-radius: 5px;
+    background: rgb(45, 45, 45);
+    
+}
+
+header nav ul li a{
+    text-decoration: none;
+    padding: 0.5rem;
+    color: white;
+}
+
+.menu{
+    cursor: pointer;
+}
+
+.close{
+    display: none;
+}
+
+input{
+    opacity: 0;
+    pointer-events: none;
+}
+
+@media (min-width: 680px){
+    .menu{
+        display: none;
+    }
+}
+
+@media (max-width: 680px){
+    header{
+        flex-wrap: wrap;
+    }
+
+    header h1{
+        flex: 1 1 100%;
+        text-align: center;
+    }
+
+    header nav{
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    input + header nav ul{
+        display: none;
+    }
+
+    input:checked + header nav label span.close{
+        display: inline;
+        font-weight: bold;
+    }
+
+    input:checked + header nav ul{
+        display: block;
+        border-top: 2px solid black;
+        border-bottom: 2px solid black;
+    }
+
+    header nav ul li:first-child{
+        margin-top: 0.5rem;
+    }
+
+    header nav ul li{
+        margin-bottom: 0.5rem;
+        cursor: pointer;
+    }
+}

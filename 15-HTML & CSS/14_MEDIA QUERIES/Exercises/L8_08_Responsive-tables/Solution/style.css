@@ -1,0 +1,90 @@
+*, *:after, *:before{
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+table{
+    width: 90%;
+    margin: 5% auto;
+    border-collapse: collapse;
+}
+
+table tr{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid grey;
+}
+
+table thead tr{
+    background: black;
+    color: white;
+}
+
+table tbody tr:nth-child(odd){
+    background: rgb(241, 241, 241);
+}
+
+table td:not(:last-child){
+    border-right: 1px solid rgb(221, 221, 221);
+}
+
+table td:not(:first-child){
+    padding-left: 0.5rem;
+}
+
+table td{
+    flex: 0 0 33%;
+    padding: 0.5rem 0;
+}
+
+@media (max-width: 680px){
+    table thead{
+        display: none;
+    }
+
+    table tbody tr{
+        border: none;
+    }
+
+    table tbody tr td{
+        flex: 1 1 100%;
+        padding: 0.2rem 0;
+        border: 1px solid rgb(221, 221, 221);
+    }
+
+    table td:not(:first-child) {
+        padding-left: 0rem;
+    }
+
+    .first-name::before{
+        display: inline;
+        content: 'First Name ';
+        font-weight: bold;
+        margin-right: 1rem;
+    }
+
+    .last-name::before{
+        display: inline;
+        content: 'Last Name ';
+        font-weight: bold;
+        margin-right: 1rem;
+    }
+
+    .job-title::before{
+        display: inline;
+        content: 'Job Title ';
+        font-weight: bold;
+        margin-right: 1rem;
+    }
+}
