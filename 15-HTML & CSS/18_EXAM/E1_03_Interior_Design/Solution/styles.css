@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Roboto:400,500,700,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    font: 16px/1.5 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Abril Fatface', serif;
+}
+
+li {
+    list-style: none;
+}
+
+.site {
+    max-width: 80vw;
+    margin: 0 auto;
+    background: #F2F0F3;
+}
+
+.wrapper {
+    background: url('../Requirements-and-Resources/image/image.jpg') no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.brand {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 1.5rem;
+    margin: 2rem;
+    padding-right: 5rem;
+}
+
+.border-top {
+    border-top: 2px solid white;
+   
+}
+
+.brand h1 {
+    font-size: 2.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.site-info {
+    display: block;
+    width: 25%;
+    margin: 1rem;
+    margin-left: auto;
+    background-image: linear-gradient(to right, #9d938b, #a8a099, #b3ada8, #bebbb7, #cac8c6);
+    border: 1px solid #a8a099;
+    padding: 1rem;
+    padding-left: 2rem;
+    text-align: right;
+    color: white;
+    text-shadow: 3px 3px 2px rgb(27, 24, 23);
+    box-shadow: 7px 7px 30px 0px rgba(0,0,0,0.75);
+    margin-bottom: 20rem;
+    font-size: 1.2rem;
+}
+
+.icon {
+    font-size: 5rem;
+    color: #9D938B;
+}
+
+.site-sideinfo {
+    background: #BAB1AD;
+}
+
+.site-bottom {
+    padding: 5rem;
+}
+
+.site-list h3 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    padding-bottom: 3rem;
+}
+
+strong {
+    text-transform: uppercase;
+}
+
+.site-list {
+    flex: 0 0 70%;
+    padding-right: 5rem;
+    padding-bottom: 5rem;
+}
+
+.site-list  li{
+    padding-bottom: 2rem;
+}
+
+.bottom-wrapper {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+}
+
+.site-footer h4 {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+}
+
+.site-footer ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem 0 2rem 0;
+}
+
+.site-footer ul li{
+    display: block;
+    flex: 0 0 25%;
+    justify-content: flex-start;
+}
+
+.site-form input{
+    background: #BAB1AD;
+    padding: 1rem;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    margin-bottom: 5rem;
+}
+.site-form input[type=submit]{
+    color: white;
+    background: #67784D;
+    margin-left: 1rem;
+}
+
+input::placeholder {
+    color: white;
+  }

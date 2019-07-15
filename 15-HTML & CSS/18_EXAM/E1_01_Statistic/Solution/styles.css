@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,500,700,700i&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    font: 24px/1.5 'Ubuntu', sans-serif;
+}
+
+body {
+    width: 1300px;
+    margin: 8em auto;
+}
+
+.close {
+    display: inline-block;   
+    position: absolute;
+    top: 15%;
+    left: 97.5%; 
+    z-index: 3;
+    color: white;
+    font-size: 1.5em;
+}
+
+.main {
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    width: 100%;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+img {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: auto;
+    position: absolute;
+    z-index: 1;
+}
+
+img:after {
+    padding-top: 56.25%;
+    content: '';
+    display: block;
+    z-index: 1;
+}
+
+img:before {
+    padding-top: 56.25%;
+    content: '';
+    display: block;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 5;
+    background: #EC8421;
+}
+
+.main ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2em;
+    padding-top: 4em;
+    margin: 3em;
+    z-index: 2;
+}
+
+.main li {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 0 0 20%;
+    text-align: center;
+    z-index: 3;
+}
+
+.icon {
+    flex: 0 0 100%;
+    font-size: 2em;
+    color: #EC8421;
+    padding-bottom: 0.4em;
+}
+
+.number {
+    flex: 0 0 100%;
+    font-weight: 900;
+    color: white;
+
+}
+
+.info {
+    flex: 0 0 100%;
+    color: white;
+    padding-bottom: 3em;
+}
