@@ -1,0 +1,7 @@
+@import url(../Solution/reset.css);
+@import url(../Solution/variables.css);
+@import url(../Solution/typography.css);
+
+article {
+    padding: 5rem;
+}

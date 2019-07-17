@@ -1,0 +1,32 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+    margin-bottom: 1rem;
+}
+
+ul {
+    padding-left: 2rem;
+}
+
+@media(min-width: 500px) {
+    html {
+        font-size: var(--phone-font-size);
+    }
+}
+
+@media(min-width: 700px) {
+    html {
+        font-size: var(--tablet-font-size);
+    }
+}
+
+@media(min-width: 1600px) {
+    html {
+        font-size: var(--desktop-font-size);
+    }
+}
