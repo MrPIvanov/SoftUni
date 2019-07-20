@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.figure {
+    background-color: orange;
+    width: 8rem;
+    height: 8rem;
+    border-radius: 0;
+    animation: trans 2.5s linear;
+}
+
+@keyframes trans {
+    0% {
+        background-color: orange;
+        width: 8rem;
+        height: 8rem;
+        border-radius: 0;
+    }
+
+    25% {
+        background-color: red;
+        width: 6rem;
+        height: 6rem;
+        border-radius: 25%;
+    }
+
+    50% {
+        background-color: red;
+        width: 4rem;
+        height: 4rem;
+        border-radius: 50%;
+    }
+
+    75% {
+        background-color: red;
+        width: 6rem;
+        height: 6rem;
+        border-radius: 25%;
+    }
+
+    100% {
+        background-color: orange;
+        width: 8rem;
+        height: 8rem;
+        border-radius: 0;
+    }
+}

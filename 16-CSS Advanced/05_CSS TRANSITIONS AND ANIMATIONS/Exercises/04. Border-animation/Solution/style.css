@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(232, 234, 238);
+}
+
+div {
+    background-color: rgb(232, 234, 238);
+    padding: 2rem;
+}
+
+div a {
+    padding: 1rem;
+    background: rgb(255, 255, 255);
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    outline: 5px solid rgb(32, 63, 93);
+    transition: outline 0.4s linear;
+}
+
+div a:first-child {
+    margin-right: 0.8rem;
+}
+
+div a:hover {
+    outline: 10px solid rgb(32, 63, 93);
+    transition: outline 0.4s linear;
+}
