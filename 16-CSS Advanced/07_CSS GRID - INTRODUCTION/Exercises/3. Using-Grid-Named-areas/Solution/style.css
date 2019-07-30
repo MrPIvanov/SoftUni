@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 1rem;
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: [content-start] 3fr [main-content-end] 1fr [content-end];
+    grid-gap: 1rem;
+}
+
+header,
+aside,
+footer,
+main {
+    background-color: black;
+    color: white;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+aside {
+    grid-column: main-content-end / content-end;
+}
+
+header,
+footer {
+    grid-column: content-start / content-end;
+}
