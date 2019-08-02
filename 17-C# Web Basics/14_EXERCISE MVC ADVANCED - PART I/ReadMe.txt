@@ -1,3 +1,5 @@
 There is no new lecture in this theme.
 
-Current BasicServer will be in next folder: "15_MVC ADVANCED - IOC AND DATA BINDING"
+Just Server Improvements.
+
+Current BasicServer will be in the folder: "16_EXERCISE MVC ADVANCED - PART II"
