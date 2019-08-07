@@ -1,0 +1,10 @@
+.site{
+    #{&}-title{
+        font-size: 4rem;
+    }
+
+    &:hover{
+        background: black;
+        color: white;
+    }    
+}

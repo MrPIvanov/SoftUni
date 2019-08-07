@@ -1,0 +1,6 @@
+$media-queries-sizes: ("small-phone": 500px, "regular-phone": 800px, "tablet": 1024px, "laptop": 1300px, "desktop": 1600px);
+
+@mixin br($device) {
+    @media (max-width: map-get($media-queries-sizes, $device)) { @content; }
+}
+
