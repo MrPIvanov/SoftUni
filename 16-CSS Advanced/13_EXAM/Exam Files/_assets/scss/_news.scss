@@ -1,0 +1,109 @@
+.news-main {
+    padding-left: var(--layou-default-padding);
+    padding-right: var(--layou-default-padding);
+}
+
+.main-news-heading {
+    padding: 0.4em;
+    border-bottom: 1px solid black;
+}
+
+.news-headers {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 3em;
+    grid-row-gap: 5em;
+}
+
+.news-subtitle {
+    font-size: 1em;
+    color: black;
+}
+
+.news-header {
+    display: block;
+    border-radius: 1em;
+    border: 1px solid transparent;
+    padding: 1em;
+    animation: fadeInWithMovementAtRight 0.3s ease-in;
+    animation-fill-mode: both;
+    opacity: 0.8;
+
+    &:hover {
+        display: block;
+        opacity: 1;
+        border: 1px solid var(--color-link-default);
+        box-shadow: inset 1px 1px 11px 1px rgba(0, 0, 0, 0.75);
+        /* animation: smallShake 0.1s ease-in;
+        animation-fill-mode: both; */
+    }
+}
+
+.single-news {
+    grid-column: span 6;
+    text-align: center;
+
+    @include monitorSize (mobile) {
+        grid-column: span 3;
+    }
+
+    @include monitorSize (desktop) {
+        grid-column: span 2;
+    }
+
+    a {
+        height: 100%;
+    }
+}
+
+.news-media img {
+    width: 100%;
+    height: auto;
+    border-radius: 1em;
+    border: 1px solid white;
+    box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.75);
+}
+
+.layout-news-media {
+    text-align: center;
+    padding: var(--layou-default-padding);
+
+    img {
+        width: 70%;
+        height: auto;
+        border-radius: 1em;
+        border: 1px solid white;
+        box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.75);
+    }
+}
+
+.layout-news-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.layout-news-content {
+    padding-left: var(--layou-default-padding);
+    padding-right: var(--layou-default-padding);
+}
+
+.go-back-wrapper {
+    text-align: center;
+    border-bottom: 1px solid black;
+
+    a {
+        padding: 0.5em;
+        border: 1px solid var(--color-link-default);
+        border-radius: 1em;
+        display: inline-block;
+        margin: 2em;
+
+        &:hover {
+            border: 1px solid white;
+            color: white;
+            background: var(--color-link-default);
+        }
+    }
+}

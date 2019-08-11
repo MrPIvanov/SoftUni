@@ -1,0 +1,60 @@
+.site-nav {
+    >ul {
+        display: flex;
+        padding: 0;
+        justify-content: space-around;
+    }
+
+    li {
+        display: block;
+        list-style: none outside;
+        padding: 0 0.5em;
+
+        &:first-child {
+            padding-left: 0;
+        }
+    }
+
+    a {
+        display: block;
+        padding: 0.5em 1em;
+        border-radius: 0.3em;
+        background: #EEE;
+
+        &:hover {
+            background: var(--color-link-default);
+            color: var(--color-body-bgrd);
+        }
+
+        i.fas:before {
+            color: var(--color-link-default);
+            margin-right: 0.5em;
+        }
+
+        &:hover i.fas:before {
+            color: #FFF;
+        }
+    }
+}
+
+header nav ul li {
+    opacity: 0;
+    animation: shake 0.1s linear;
+    animation-fill-mode: both;
+
+    &:first-child {
+        animation-delay: 0.2s;
+    }
+
+    &:nth-child(2) {
+        animation-delay: 0.3s;
+    }
+
+    &:nth-child(3) {
+        animation-delay: 0.4s;
+    }
+
+    &:nth-child(4) {
+        animation-delay: 0.5s;
+    }
+}

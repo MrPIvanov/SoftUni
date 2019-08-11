@@ -1,0 +1,21 @@
+.site {
+    max-width: var(--layout-main-width);
+    margin: 0 auto;
+    padding: 0;
+}
+
+.site-main {
+    margin-top: 3em;
+}
+
+@media (min-width: 1024px) {
+    .site-header {
+        display: flex;
+        align-items: center;
+
+        nav {
+            margin-left: auto;
+            padding-right: var(--layou-default-padding);
+        }
+    }
+}

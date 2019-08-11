@@ -1,0 +1,78 @@
+.about-wrapper {
+    padding-left: var(--layou-default-padding);
+    padding-right: var(--layou-default-padding);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    div {
+        grid-column: span 2;
+    }
+
+    .about-info {
+        text-align: center;
+
+        ul {
+            text-align: center;
+            padding: 0;
+            margin: 0;
+        }
+
+        li {
+            list-style: none;
+            font-size: 1.2em;
+            text-align: center;
+            padding: 0;
+            margin: 0;
+        }
+    }
+}
+
+.content .about-btn-p {
+    margin-top: 5em;
+    text-align: center;
+}
+
+.about-btn {
+    background: var(--color-bcg-default);
+    color: var(--color-link-default);
+    border: 2px solid transparent;
+    font-weight: 900;
+    border-radius: 1em;
+    padding: 1em 5em 1em 5em;
+    font-size: 1.5em;
+
+    &:hover {
+        opacity: 0;
+    }
+}
+
+.about-map {
+    background: url("https://images.unsplash.com/photo-1482332486572-10fff1bedfbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80") center center;
+    background-size: cover;
+    border-radius: 1em;
+    border: 1px solid white;
+    box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.75);
+    opacity: 0;
+
+    &:before {
+        display: block;
+        content: "We are here Somewhere ?!?";
+        color: white;
+        text-align: center;
+        font-size: 1em;
+    }
+}
+
+@media (min-width: 1024px) {
+    .about-wrapper div {
+        grid-column: span 1;
+    }
+
+    .about-map {
+        opacity: 0.8;
+    }
+
+    .about-map:hover {
+        opacity: 1;
+    }
+}

@@ -1,0 +1,23 @@
+---
+layout: news
+title: "Samsung Adds Wallet from Blockchain Phone Rival Pundi X"
+subtitle: "Rival manufacturers of blockchain smartphones, Samsung and Pundi X, appear to see the benefits of working together on crypto adoption"
+date: 2019-07-11 19:09:21 +0300
+img: https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+---
+
+Rival manufacturers of blockchain smartphones, Samsung and Pundi X, appear to see the benefits of working together on crypto adoption.
+
+Announced by Pundi X in a blog post on Monday, the firms have entered a symbiotic relationship regarding their wallet tech, with Pundi X integrating with Samsung’s Blockchain Wallet and making its XWallet available to the Galaxy S10 phone’s blockchain app options.
+
+“This presents a unique opportunity to push blockchain technology and blockchain-based digital assets into the mainstream, reaching the millions of Samsung smartphone users around the world,” firm says in the post.
+
+Pundi X claims the news makes it the first fintech app in the S10’s blockchain ecosystem.
+
+S10 users adding XWallet to the Samsung Blockchain Wallet will be able to move cryptocurrencies between the two apps. Pundi X suggests that users can use Samsung’s wallet to store cryptos securely, “like a savings account,” and moving them to the XWallet “checking account” for use in payments.
+
+Pundi X added that, with XWallet recently becoming available via XPOS – the firm’s blockchain point-of-sale device – more payment options will be on offer for S10 users as a result. XWallet is also connected with XPASS, Pundi X’s NFC-enabled crypto payment card product.
+
+Samsung launched its S10 flagship phone back in March, revealing a bold blockchain play that saw it offer the crypto wallet alongside decentralized apps (dapps), merchant payments and other features such as blockchain signing.
+
+Details of Pundi X’s device were aired at the Mobile World Congress conference in Barcelona in February and a launch is expected later this year. The prototype XPhone is said to be able to make calls over a blockchain.

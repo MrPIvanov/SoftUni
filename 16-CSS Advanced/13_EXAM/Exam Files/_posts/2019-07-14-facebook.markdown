@@ -1,0 +1,25 @@
+---
+layout: news
+title: "Facebook Libra Might Never Launch, SEC Disclosure"
+subtitle: "Facebook has acknowledged what many have been saying – that regulatory issues may be an insurmountable barrier to the launch of its Libra global cryptocurrency project"
+date: 2019-07-14 19:09:21 +0300
+img: https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+---
+
+Facebook has acknowledged what many have been saying – that regulatory issues may be an insurmountable barrier to the launch of its Libra global cryptocurrency project.
+
+In a frank disclosure in the firm’s latest quarterly report to the U.S. Securities and Exchange Commission (SEC), the firm said that the many barriers it will face regarding regulating a new technology with unclear rules in the U.S. and other nations of the world, mean “there can be no assurance that Libra or our associated products and services will be made available in a timely manner, or at all.”
+
+“Our participation in the Libra Association will subject us to significant regulatory scrutiny and other risks that could adversely affect our business, reputation, or financial results,” Facebook says.
+
+And not only is Libra “based on relatively new and unproven technology,” the laws and regulations around digital currency are “uncertain and evolving.”
+
+“Libra has drawn significant scrutiny from governments and regulators in multiple jurisdictions and we expect that scrutiny to continue,” the SEC filing states.
+
+As the firm says, the Libra project – which could potentially bring about crypto adoption to the billions of Facebook users – has caused something of an uproar in regulatory circles.
+
+Central banks, government ministers and watchdog chiefs have been lining up to demand more information on the project over fears it could pose a threat to central bank money and financial stability, and provide a global avenue for money laundering and fraud.
+
+The G7 nations formed a task force to look into issues around cryptocurrencies, but with a steely focus on Libra. It concluded earlier in July that regulations of the “highest standard” would be needed to govern the project.
+
+Some, including the head of the House Financial Services Committee, have even called for the project to be halted while such concerns are addressed.

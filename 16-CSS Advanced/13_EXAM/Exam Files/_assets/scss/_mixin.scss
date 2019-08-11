@@ -1,0 +1,14 @@
+@mixin monitorSize($point) {
+
+    @if $point==desktop {
+        @media (min-width: 1024px) {
+            @content;
+        }
+    }
+
+    @if $point==mobile {
+        @media (min-width: 750px) {
+            @content;
+        }
+    }
+}

@@ -1,0 +1,29 @@
+---
+layout: main
+title: News
+icon: fa-rss
+permalink: /news/
+---
+
+<section class="news-main">
+
+    <header>
+        <h1 class="main-news-heading">Latest News</h1>
+    </header>
+
+    <div class="content">
+        <div class="news-headers">
+            {% for post in site.posts %}
+            <div class="single-news">
+                <a href="{{ site.baseurl }}{{ post.url }}" class="news-header">
+                    <h2 class="news-title"> {{ post.title }}</h2>
+                    <h5 class="news-subtitle">{{ post.subtitle }}</h5>
+                    <div class="news-media">
+                        <img src="{{ post.img }}" alt="">
+                    </div>
+                </a>    
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>

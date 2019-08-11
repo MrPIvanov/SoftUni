@@ -1,0 +1,19 @@
+---
+layout: news
+title: "Firearm Wins Patent for Integrating Black Box Guns"
+subtitle: "Blockchain has made its way to the firearm industry with a patent issuance to Justifire, a Georgia-based gun appliance manufacturer"
+date: 2019-07-10 19:09:21 +0300
+img: https://images.unsplash.com/photo-1518219870542-9cc78377f953?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+---
+
+Blockchain has made its way to the firearm industry with a patent issuance to Justifire, a Georgia-based gun appliance manufacturer.
+
+Described as a ‘black box’ for your gun, the company’s signature device captures visual, audio, and other data for events requiring lethal force. Sensing sudden environmental changes, Justifire records dangerous encounters with the intention of protecting the right to self-defense in both the legal and public sphere.
+
+According to the patent, the 3 inch by 3 inch by 1.5-inch device will incorporate blockchain technology for end-to-end data integrity. Through blockchain, the Justifire attachment will send data to a network of nodes for encryption and storage. The patent hints at possibly tokenizing the data to incentivize node participation.
+
+Currently, the system uses two mounted SD cards to store encrypted data. Inventor and Justifire CEO Jason Palazzolo argues pairing Justifire with blockchain breathes integrity into sticky legal situations:
+
+“Justifire uses a combination of autonomous sensors to capture every aspect of any given situation. In case of self-defence, this data can be used to recreate the actions and events leading up to and after discharge of a firearm,” he said.
+
+The firm is seeking additional funding to continue development of its product including new tools like ultrasonics, thermal, and laser imaging radar. With the patent, Justifire is pivoting toward blockchain development and implementation.

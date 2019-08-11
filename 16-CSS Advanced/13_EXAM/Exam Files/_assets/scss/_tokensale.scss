@@ -1,0 +1,118 @@
+.token-sale-main {
+    padding-left: var(--layou-default-padding);
+    padding-right: var(--layou-default-padding);
+}
+
+
+.tokensale-main-heading {
+    text-align: center;
+    margin: 2em;
+    font-weight: 700;
+}
+
+.tokensale-second-heading {
+    text-align: center;
+}
+
+.tokensale-second-info {
+    margin-top: 5em;
+    margin-bottom: 2em;
+}
+
+.tokensale-container {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 2em;
+}
+
+.tokensale-card {
+    text-align: center;
+    overflow: hidden;
+    grid-column: span 6;
+    display: block;
+    border-radius: 1em;
+    border: 1px solid transparent;
+    animation: fadeInWithMovementFromBottom 1.1s ease-in;
+    animation-fill-mode: both;
+    opacity: 0.8;
+
+    @include monitorSize (mobile) {
+        grid-column: span 3;
+    }
+
+    @include monitorSize (desktop) {
+        grid-column: span 2;
+    }
+
+    &:hover {
+        display: block;
+        opacity: 1;
+        border: 1px solid var(--color-link-default);
+        box-shadow: 1px 1px 11px 1px rgba(0, 0, 0, 0.75);
+    }
+
+    header {
+        padding: 1em;
+        margin: 0;
+        background: var(--color-tokensale-main);
+        color: var(--color-bcg-default);
+    }
+
+    main {
+        background: var(--color-tokensale-bgrd);
+        padding: 1em;
+
+        h3 {
+            margin: 0;
+        }
+
+        ul {
+            padding: 0;
+            margin: 2em;
+        }
+
+        li {
+            list-style: none;
+            color: red;
+            text-align: center;
+            font-size: 1.2em;
+        }
+    }
+
+    footer {
+        padding: 2em;
+        background: var(--color-tokensale-bgrd);
+
+        a {
+            padding: 1em;
+            background: var(--color-btn-bgrd);
+            color: var(--color-btn-text);
+            border: 2px solid transparent;
+            font-weight: 700;
+            border-radius: 1em;
+
+            &:hover {
+                cursor: pointer;
+                background: var(--color-btn-text);
+                color: var(--color-btn-bgrd);
+                border: 2px solid black;
+            }
+        }
+    }
+}
+
+.dashed {
+    text-decoration: line-through;
+}
+
+.disabled {
+    opacity: 0.5;
+    cursor: auto;
+}
+
+.tokensale-card footer a.disabled:hover {
+    cursor: auto;
+    background: var(--color-btn-bgrd);
+    color: var(--color-btn-text);
+    border: 2px solid black;
+}

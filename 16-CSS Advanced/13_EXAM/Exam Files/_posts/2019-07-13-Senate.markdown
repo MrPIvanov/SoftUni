@@ -1,0 +1,15 @@
+---
+layout: news
+title: "Watch the Senate Banking Crypto Regulation Hearing Live"
+subtitle: "The U.S. Senate Committee on Banking, Housing and Urban Affairs is holding its hearing on regulatory frameworks for cryptocurrencies and blockchain today"
+date: 2019-07-13 19:09:21 +0300
+img: https://images.unsplash.com/photo-1526615735835-530c611a3d8a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
+---
+
+The U.S. Senate Committee on Banking, Housing and Urban Affairs is holding its hearing on regulatory frameworks for cryptocurrencies and blockchain today.
+
+The open session, titled “Examining Regulatory Frameworks for Digital Currencies and Blockchain,” is set to start at 10:00 a.m. EST (14:00 UTC). It’s not so far been made clear if the event will be more of a fact-finding mission or if specific legislation will be discussed.
+
+Testifying as expert witnesses will be Circle CEO Jeremy Allaire, representing the Blockchain Association; Rebecca Nelson, a member of the Congressional Research Service specializing in international trade and finance; and Mehrsa Baradaran, a law professor at the University of California Irvine School of Law.
+
+The hearing will be livestreamed and you can watch it here.
