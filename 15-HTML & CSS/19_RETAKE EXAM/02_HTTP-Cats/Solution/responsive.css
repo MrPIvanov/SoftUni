@@ -1,0 +1,44 @@
+@media (max-width: 768px){
+    .wrapper.style1 > header h2:after{
+        width: 30%;
+        height: 2px;
+    }
+
+    .wrapper.style1 > header p {
+        font-size: 0.7rem;
+        letter-spacing: 0.15rem;
+    }
+   
+    .wrapper.style2 {
+    padding: 1rem;
+   }
+
+   .wrapper.style2 > header h2:after{
+       width: 40%;
+   }
+
+   .gallery > * {
+       width: 100%;
+   }
+
+   .spotlight > * {
+       width: 100%;
+   }
+
+   .spotlight .inner {
+       padding: 2rem;
+       text-align: center;
+   }
+
+   .spotlight p:last-child {
+       opacity: 0.6;
+   }
+
+   .spotlight.alt p:last-child {
+       opacity: 1;
+   }
+
+   .spotlight .inner{
+       padding: 1rem;
+   }
+}

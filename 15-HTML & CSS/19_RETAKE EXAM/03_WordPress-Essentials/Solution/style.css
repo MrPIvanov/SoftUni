@@ -1,0 +1,447 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900,900i&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    font: 16px/1.5 'Lato', sans-serif;
+}
+
+.main-head {
+    background: #234465;
+    padding-left: 15%;
+    padding-right: 15%;
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+.main-head img {
+    display: inline-block;
+    height: 4rem;
+}
+
+.head-list {
+    margin-left: auto;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.head-list li {
+    display: inline-block;
+    color: white;
+    padding: 0.3em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.head-list i {
+    color: white;
+    align-items: center;
+    padding: 0.5em;
+}
+
+.main-head .title-btn {
+    margin-left: 3rem;
+    background: #FFA000;
+    padding: 0.3em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border-radius: 1em;
+    color: white;
+}
+
+.second-header {
+    margin-left: 15%;
+    padding: 1em;
+}
+
+.second-header span {
+    display: inline-block;
+    padding-right: 1em;
+}
+
+.second-header .second {
+    color: #244C77;
+    border-bottom: 2px solid #244C77;
+}
+
+.second-header .first {
+    color: #E9C268;
+}
+
+.second-header {
+    padding-bottom: 0;
+}
+
+main {
+    color: #234465;
+}
+
+.main-course-title {
+    text-align: center;
+    background: url("../Requirements-and-Resources/images/wordpress.png") no-repeat center center;
+    background-size: cover;
+    /* opacity: 0.5; */
+    color: white;
+    padding: 1em;
+}
+
+.main-course-title h1 {
+    font-size: 2.5em;
+    font-weight: 700;
+}
+
+.main-course-title li {
+    display: inline-block;
+    padding: 0.2em;
+}
+
+.main-info-course strong {
+    font-weight: 900;
+}
+
+.main-course-title .btn-take-part {
+    display: inline-block;
+    padding: 0.3em;
+    padding-left: 3em;
+    padding-right: 3em;
+    background: #FFA000;
+    border-radius: 1em;
+    margin: 2em;
+    opacity: 1;
+}
+
+.main-info-course {
+    background: #F2F2F2;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 2em;
+    text-align: center;
+}
+
+.main-info-course p {
+    padding: 1em;
+    text-align: left;
+}
+
+.main-info-course h2 {
+    position: relative;
+}
+
+.main-info-course h2:after {
+    content: '';
+    position: absolute;
+    margin: auto;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 15%;
+    height: 3px;
+    border-bottom: 3px solid #FFA000;
+}
+
+.main-info-course .btn-take-part {
+    display: inline-block;
+    padding: 0.3em;
+    padding-left: 3em;
+    padding-right: 3em;
+    background: #FFA000;
+    border-radius: 1em;
+    margin: 1em;
+    opacity: 1;
+    color: white;
+}
+
+.main-info-skills {
+    text-align: center;
+    background: #F2F2F2;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.main-info-skills h2 {
+    padding-top: 1em;
+    position: relative;
+}
+
+.main-info-skills h2:after {
+    content: '';
+    position: absolute;
+    margin: auto;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 30%;
+    height: 3px;
+    border-bottom: 3px solid #FFA000;
+}
+
+.main-info-skills .skills {
+    padding: 2em;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.main-info-skills li {
+    text-align: left;
+    padding-left: 2em;
+    list-style: none;
+    grid-column: span 1;
+}
+
+.main-info-skills i {
+    color: #FFA000;
+}
+
+.main-themes {
+    background: #F2F2F2;
+    margin: 2em;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+.main-themes h2 {
+    padding-top: 1em;
+    position: relative;
+    text-align: center;
+}
+
+.main-themes h2:after {
+    content: '';
+    position: absolute;
+    margin: auto;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 5%;
+    height: 3px;
+    border-bottom: 3px solid #FFA000;
+}
+
+.main-themes .themes {
+    padding: 2em;
+    display: grid;
+    grid-column-gap: 1em;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 2em;
+}
+
+.main-themes li {
+    text-align: left;
+    list-style: none;
+    grid-column: span 1;
+    background: #DADADA;
+    margin-bottom: 0.5em;
+    border-left: 3px solid #234465;
+    padding: 0.3em;
+    padding-left: 1em;
+    font-weight: 700;
+}
+
+.info-pref {
+    margin-left: 15%;
+    margin-right: 15%;
+    background: #FFA000;
+    color: white;
+    text-align: center;
+}
+
+.info-pref h2 {
+    padding-top: 1em;
+    position: relative;
+    text-align: center;
+}
+
+.info-pref h2:after {
+    content: '';
+    position: absolute;
+    margin: auto;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 25%;
+    height: 3px;
+    border-bottom: 3px solid white;
+}
+
+.info-pref p {
+    text-align: left;
+    padding: 2em;
+}
+
+.last-info {
+    margin: 2em;
+    margin-left: 15%;
+    margin-right: 15%;
+    background: #F2F2F2;
+    padding: 2em;
+    padding-bottom: 0;
+}
+
+.last-info h3 {
+    color: #FFA000;
+}
+
+.last-info strong {
+    font-weight: 900;
+}
+
+.last-info span {
+    font-weight: 900;
+    color: #3383C1;
+}
+
+.inner {
+    margin-top: 2em;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    background: #234465;
+}
+
+.inner h3 {
+    display: inline-block;
+    color: white
+}
+
+.inner .inner-botom {
+    background: #FFA000;
+}
+
+.inner .inner-top {
+    padding: 1em;
+    display: flex;
+    flex-basis: 100%;
+}
+
+.inner .inner-botom {
+    padding: 1em;
+    display: flex;
+    flex-basis: 100%;
+}
+
+.inner ul {
+    padding-left: 10em;
+    display: block;
+}
+
+.inner .inner-botom ul {
+    padding-left: 14em;
+}
+
+.teacher {
+    margin-left: 15%;
+    margin-right: 15%;
+    background: #F2F2F2;
+}
+
+.teacher h2 {
+    padding-top: 1em;
+    position: relative;
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.teacher h2:after {
+    content: '';
+    position: absolute;
+    margin: auto;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 15%;
+    height: 3px;
+    border-bottom: 3px solid #FFA000;
+}
+
+.teacher-info {
+    padding: 3em;
+    padding-top: 0;
+    grid-gap: 1em;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
+
+.teacher-info .media {
+    grid-column: span 1;
+    background: url("../Requirements-and-Resources/images/lecturer.png") no-repeat center center;
+    background-size: cover;
+    border-radius: 50%;
+    height: 8em;
+    width: 8em;
+}
+
+.teacher-info-inside {
+    grid-column: span 5;
+}
+
+.teacher-info h3 {
+    grid-column: span 5;
+}
+
+.teacher-info p {
+    grid-column: span 5;
+}
+
+.last-button {
+    text-align: center;
+}
+.last-btn {
+    margin-top: 1em;
+    margin-bottom: 3em;
+    display: inline-block;
+    color: white;
+    background: #FFA000;
+    padding-left: 3em;
+    padding-right: 3em;
+    border-radius: 1em;
+}
+
+.footer-container {
+    padding-top: 3em;
+    padding-bottom: 3em;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    background: #162B40;
+    color: white;
+}
+.footer-container h5{
+    padding: 1em;
+    color: #FFA000;
+}
+
+.footer-container i{
+    padding: 0.7em;
+    padding-left: 0;
+    color:white;
+}
+
+.footer-container li {
+    padding-left: 1em;
+    list-style: none;
+}
+
+.footer-container .first {
+    grid-column: 2 / 3;
+}
+
+main {
+    background: url("../Requirements-and-Resources/images/wordpress.png") no-repeat;
+    /* background-size: cover; */
+}
