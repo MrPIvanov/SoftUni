@@ -1,0 +1,1 @@
+No new Exercises in this lecture.
