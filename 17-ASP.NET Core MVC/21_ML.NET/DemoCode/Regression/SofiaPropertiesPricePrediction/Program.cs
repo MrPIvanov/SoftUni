@@ -25,6 +25,8 @@
              * 16083 records in imot.bg-2019-07-06.csv
              */
 
+            //var properties = new ImotBgDataGatherer().GatherData(41, 51).GetAwaiter().GetResult();
+
             Console.OutputEncoding = Encoding.UTF8;
             var modelFile = "SofiaPropertiesModel.zip";
             if (!File.Exists(modelFile))
